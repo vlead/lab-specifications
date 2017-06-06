@@ -1,0 +1,13 @@
+{"experiment": {"id":  "E98403",
+                "name": "Nonlinear Oscillator",
+                "overview": "This experiment deals with Nonlinear Oscillator",
+                "sections" : ["Theory",
+                              "Procedure",
+                              "Self Evaluation",
+                              "Simulator",
+                              "Reference",
+                              "Feedback"
+                             ],
+ "content-type": "org"                                                
+               }
+}

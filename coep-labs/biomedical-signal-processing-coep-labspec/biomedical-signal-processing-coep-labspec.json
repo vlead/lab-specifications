@@ -9,7 +9,7 @@
 	 "assets": [{"asset_type": "image", "path": "../../static/COEP-Biomedical-and-Signal-Processing-Laboratory.jpg"},
 	 	    {"asset_type": "video", "path": "https://github.com/Virtual-Labs/bio-medical-and-signal-processing-laboratory-coep"}],
 	 "overview": "This lab deals with Biomedical and Signal Processing Laboratory",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99926", "e99925", "e99924", "e99923", "e99922", "e99921", "e99920", "e99919", "e99918"]}]
 	}
 }

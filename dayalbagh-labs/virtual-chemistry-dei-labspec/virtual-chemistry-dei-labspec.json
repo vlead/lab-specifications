@@ -9,7 +9,7 @@
 	 "assets": [{"asset_type": "image", "path": "../../static/Dayalbagh-Virtual-Chemistry-Lab.jpg"},
 	 	    {"asset_type": "video", "path": "https://github.com/Virtual-Labs/virtual-chemistry-lab-dei"}],
 	 "overview": "This lab deals with Virtual Chemistry Lab",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99893", "e99892", "e99891", "e99890", "e99889", "e99888", "e99887", "e99886", "e99885"]}]
 	}
 }

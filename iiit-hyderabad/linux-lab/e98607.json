@@ -1,29 +1,27 @@
 {
     "experiment": {
-        "id":  "e98567",
-        "name": "Wave Propagation",
-        "discipline_id": "ece",
+        "id":  "e98607",
+        "name": "Searching",
+        "discipline_id": "cse",
         "institute_id": "iiith",
         "developers": [],
         "hosting_info": [
             {
                 "hosting_status": "hosted",
-                "hosted_on": "cloud",
-                "hosted_url": "http://emt-iiith.vlabs.ac.in/Experiment.php?code=C008"
+                "hosted_on": "institute",
+                "hosted_url": "http://cse09-iiith.virtual-labs.ac.in/exp8/index.html"
             }
         ],
         "integration_level": 4,
-        "overview": "This experiments deals with Wave Propagation",
+        "overview": "This experiments deals with Searching",
         "assets": [],
         "sections" : [
             "Introduction", 
                     "Objective", 
-                    "Video Tutorial", 
-                    "Procedure", 
-                    "Virtual Experiment", 
                     "Theory", 
+                    "Tasks", 
                     "Quiz", 
-                    "References", 
+                    "Further Readings", 
                     "Feedback"
         ]
     }

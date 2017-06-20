@@ -3,7 +3,7 @@
 	 	"discipline_id": "biotech",
 	        "institute_id": "iitr",
 	        "developers": [],
-	        "hosting_info": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": "bmsip-iitr.vlabs.ac.in"}],
+	        "hosting_info": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": "http://bmsip-iitr.vlabs.ac.in"}],
 	        "integration_level": 6,
 	        "assets": [{"asset_type": "image", "path": ""},
 	 		   {"asset_type": "video", "path": ""}],

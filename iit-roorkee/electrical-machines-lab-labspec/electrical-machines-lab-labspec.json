@@ -8,7 +8,7 @@
 	 "assets": [{"asset_type": "image", "path": "../../static/IITRoorkee-Electrical-Machines-Lab.jpg"},
 	 	    {"asset_type": "video", "path": ""}],
 	 "overview": "This lab deals with Electrical Machines Lab",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99415", "e99414", "e99413", "e99412", "e99411", "e99410", "e99409"]}]
 	}
 }

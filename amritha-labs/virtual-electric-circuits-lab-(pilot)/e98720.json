@@ -1,7 +1,7 @@
 {
     "experiment": {
         "id":  "e98720",
-        "name": "Norton's theorem",
+        "name": "Nortons theorem",
         "discipline_id": "phy-sc",
         "institute_id": "amrita",
         "developers": [],
@@ -13,7 +13,7 @@
             }
         ],
         "integration_level": 4,
-        "overview": "This experiments deals with Norton's theorem",
+        "overview": "This experiments deals with Nortons theorem",
         "assets": [],
         "sections" : [
             "Theory", 

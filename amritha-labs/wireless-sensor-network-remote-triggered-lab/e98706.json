@@ -2,7 +2,7 @@
     "experiment": {
         "id":  "e98706",
         "name": "Data Collection Frequency and Tx. vs. Power Consumption",
-        "discipline_id": "Computer sciences",
+        "discipline_id": "cse",
         "institute_id": "amrita",
         "developers": [],
         "hosting_info": [

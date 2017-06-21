@@ -1,5 +1,5 @@
 {"experiment": {"id":  "e99255",
-	 	"name": "Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
+	 	"name": "Calculation of  lambda max of Organic Compounds Using Woodward Fieser Rules",
 	 	"discipline_id": "chem",
 	        "institute_id": "amrita",
 	        "developers": [],
@@ -8,7 +8,7 @@
 	        "integration_level": 0,
 	        "assets": [{"asset_type": "image", "path": ""},
 	 		   {"asset_type": "video", "path": ""}],
-	 	"overview": "This experiments deals with Calculation of λmax of Organic Compounds Using Woodward Fieser Rules",
+	 	"overview": "This experiments deals with Calculation of lambda max of Organic Compounds Using Woodward Fieser Rules",
 	 	"sections" : ["Simulator", 
  			      "Animation"]		
 		}

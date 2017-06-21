@@ -4,12 +4,12 @@
         "name": "robotics and control systems simulation laboratory",
         "discipline_id": "mech",
         "institute_id": "iitkgp",
-        "developers": [
+          "developers": [
             {
-                "name": "Simulation and Remote Triggered",
-                "email": "Prof. C S Kumar"
+                "name": "Prof. C S Kumar",
+                "email": "kumar@mech.iitkgp.ernet.in"
             }
-        ],
+         ],
         "hosting_info": [
             {
                 "hosting_status": "hosted",

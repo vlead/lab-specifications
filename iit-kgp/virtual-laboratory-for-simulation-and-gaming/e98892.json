@@ -1,8 +1,8 @@
 {
     "experiment": {
         "id":  "e98892",
-        "name": "Experiment-1 : Dynamics of quality fluctuations",
-        "discipline_id": "Industrial and Systems Engineering",
+        "name": "Dynamics of quality fluctuations",
+             "discipline_id": "is-engg",
         "institute_id": "iitkgp",
         "developers": [
             {

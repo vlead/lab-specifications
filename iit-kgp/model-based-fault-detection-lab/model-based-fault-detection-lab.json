@@ -25,9 +25,8 @@
                 "name": "Introduction"
             }, 
             {
-                "experiments" : [
-                    ""
-                ]
+                "experiments" : []
+         
             }
         ]
     }

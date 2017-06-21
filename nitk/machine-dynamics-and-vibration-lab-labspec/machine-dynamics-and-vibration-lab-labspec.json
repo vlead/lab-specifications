@@ -9,7 +9,7 @@
 	 "assets": [{"asset_type": "image", "path": "../../static/NITK-Machine-Dynamics-and-Mechanical-Vibrations.jpg"},
 	 	    {"asset_type": "video", "path": ""}],
 	 "overview": "This lab deals with Machine Dynamics and Mechanical Vibrations",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99386", "e99385", "e99384", "e99383", "e99382", "e99381", "e99380", "e99379"]}]
 	}
 }

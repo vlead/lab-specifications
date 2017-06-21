@@ -1,7 +1,7 @@
 {"experiment": {"id":  "e98519",
                     "name": "Double Acting Reciprocating Pump",
                     "discipline_id": "civil",
-                    "institute_id": "NITK Surathkal",
+                     "institute_id": "nitk",
                     "developers": [{"name":"dev1", "email": "dev1_id"},
                                     {"name":"dev2", "email": "dev2_id"}],
                     "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://fmc-nitk.vlabs.ac.in/exp8/index.html"}],

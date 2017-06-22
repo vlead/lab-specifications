@@ -2,7 +2,7 @@
   "lab": {
     "id": "mat-sc01",
     "name": "Thermal Processing and Microstructural Characterization",
-    "overview": "This lab deals with Thermal Processing and Microstructural Characterization",
+    
     "discipline_id": "mm-engg",
     "institute_id": "iitk",
     "developers": [
@@ -20,6 +20,7 @@
     ],
     "integration_level": 0,
     "assets": [],
+"overview": "This lab deals with Thermal Processing and Microstructural Characterization",
     "sections": [
       {
         "name": "Introduction"

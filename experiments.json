@@ -1708,7 +1708,14 @@
 	{"id" : "E98331", "name": "Compositional Mapping using LFM"}
 	{"id" : "E98330", "name": "Surface roughness analysis of metallic sample in contact mode/non-contact mode using Atomic Force Microscopy"}
 	{"id" : "E98329", "name": "High Resolution AFM Imaging of Carbon Nanotubes coated with Sn-Based Material"}
-	
+	{"id" : "E98328", "name": "Conducting Step Test simulation"}
+	{"id" : "E98327", "name": "Identifying First Order Transfer Function using step response data"}
+	{"id" : "E98326", "name": "Identifying Second Order Transfer Function using step response data "}
+	{"id" : "E98325", "name": "Conducting Ramp Test simulation"}
+	{"id" : "E98324", "name": "Identifying First Order Transfer Function using ramp response data"}
+	{"id" : "E98323", "name": "Conducting Sine Test simulation"}
+	{"id" : "E98322", "name": "Frequency Analysis of sine test data"}
+	{"id" : "E98321", "name": "PI Controller using Trapezoidal Approximation"}
 	
 	
 ]}

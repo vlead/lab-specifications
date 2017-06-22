@@ -2,7 +2,7 @@
   "experiment": {
     "id": "e98478",
     "name": "Introduction to Tensile Testing: Analysis of Stress-Strain Curves",
-    "overview": "This Experiment deals with Introduction to Tensile Testing: Analysis of Stress-Strain Curves",
+    
     "discipline_id": "mm-engg",
     "institute_id": "iitk",
     "developers": [
@@ -20,6 +20,7 @@
     ],
     "integration_level": 0,
     "assets": [],
+    "overview": "This Experiment deals with Introduction to Tensile Testing: Analysis of Stress-Strain Curves",
     "sections": [
       "Objective",
       "Theory",

@@ -1,8 +1,8 @@
 {
     "experiment": {
         "id":  "e98884",
-        "name": "Experiment-9 : Limits to Growth System Archetype",
-        "discipline_id": "Industrial and Systems Engineering",
+        "name": "Limits to Growth System Archetype",
+        "discipline_id": "is-engg",
         "institute_id": "iitkgp",
         "developers": [
             {
@@ -18,13 +18,13 @@
             }
         ],
         "integration_level": 4,
-        "overview": "This experiments deals with Experiment-9 : Limits to Growth System Archetype",
+        "overview": "This experiments deals with Limits to Growth System Archetype",
         "assets": [],
         "sections" : [
             "Home", 
-                    "Theory»", 
-                    "Procedure»", 
-                    "Simulator»", 
+                    "Theory", 
+                    "Procedure", 
+                    "Simulator", 
                     "Reference", 
                     "Assignment", 
                     "Self Evaluation", 

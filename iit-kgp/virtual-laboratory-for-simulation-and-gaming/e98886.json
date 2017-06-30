@@ -1,8 +1,8 @@
 {
     "experiment": {
         "id":  "e98886",
-        "name": "Experiment-7 : Supply Chain Coordination",
-        "discipline_id": "Industrial and Systems Engineering",
+        "name": "Supply Chain Coordination",
+        "discipline_id": "is-engg",
         "institute_id": "iitkgp",
         "developers": [
             {
@@ -18,13 +18,13 @@
             }
         ],
         "integration_level": 4,
-        "overview": "This experiments deals with Experiment-7 : Supply Chain Coordination",
+        "overview": "This experiments deals with Supply Chain Coordination",
         "assets": [],
         "sections" : [
             "Home", 
-                    "Theory»", 
-                    "Procedure»", 
-                    "Simulator»", 
+                    "Theory", 
+                    "Procedure", 
+                    "Simulator", 
                     "Reference", 
                     "Assignment", 
                     "Self Evaluation", 

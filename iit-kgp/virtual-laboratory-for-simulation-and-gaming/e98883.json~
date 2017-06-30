@@ -2,7 +2,7 @@
     "experiment": {
         "id":  "e98883",
         "name": "Supply Chain Risks",
-        "discipline_id": "Industrial and Systems Engineering",
+        "discipline_id": "is-engg",
         "institute_id": "iitkgp",
         "developers": [],
         "hosting_info": [
@@ -13,7 +13,11 @@
             }
         ],
         "integration_level": 4,
+<<<<<<< HEAD
         "overview": "This experiments deals with Supply Chain Risks",
+=======
+        "overview": "This experiments deals with Experiment-10  Supply Chain Risks",
+>>>>>>> 925075eb793ff09483d3fc5c83452392a4d3c60e
         "assets": [],
         "sections" : [
             "Home", 

@@ -2,7 +2,11 @@
     "experiment": {
         "id":  "e98889",
         "name": "Production Distribution",
-        "discipline_id": "Industrial and Systems Engineering",
+<<<<<<< HEAD
+        "discipline_id": "is-engg",
+=======
+             "discipline_id": "is-engg",
+>>>>>>> 925075eb793ff09483d3fc5c83452392a4d3c60e
         "institute_id": "iitkgp",
         "developers": [
             {

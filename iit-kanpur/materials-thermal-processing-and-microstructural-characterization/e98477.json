@@ -1,9 +1,9 @@
 {
   "experiment": {
-    "id": "E98477",
+    "id": "e98477",
     "name": "The Yield Point Phenomenon",
-    "overview": "This Experiment deals with The Yield Point Phenomenon",
-    "discipline_id": "mame",
+    
+    "discipline_id": "mm-engg",
     "institute_id": "iitk",
     "developers": [
       {
@@ -20,6 +20,7 @@
     ],
     "integration_level": 0,
     "assets": [],
+     "overview": "This Experiment deals with The Yield Point Phenomenon",
     "sections": [
       "Objective",
       "Theory",

@@ -1,0 +1,14 @@
+{"experiment": {"id":  "e98325",
+	 	"name": "Conducting Ramp Test simulation ",
+	 	"discipline_id": "chem",
+	        "institute_id": "iitb",
+	        "developers": [],
+	        "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://http://ee32-iitb.vlabs.ac.in/"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIT-Bombay+EE32-IITB+Anytime/about"}],
+	        "integration_level": 6,
+	        "assets": [{"asset_type": "image", "path": ""},
+	 		   {"asset_type": "video", "path": ""}],
+	 	"overview": "This experiments deals with Conducting Ramp Test simulation  ",
+	 	"sections" : ["Simulator"]		
+		}
+}

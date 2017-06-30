@@ -9,7 +9,7 @@
 	 "assets": [{"asset_type": "image", "path": "../../static/NITK-Substation-Automation.jpg"},
 	 	    {"asset_type": "video", "path": ""}],
 	 "overview": "This lab deals with Substation Automation",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99351", "e99350", "e99349", "e99348", "e99347", "e99346", "e99345", "e99344", "e99343", "e99342", "e99341"]}]
 	}
 }

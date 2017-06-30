@@ -1,8 +1,13 @@
 {
     "experiment": {
         "id":  "e98888",
+<<<<<<< HEAD
         "name": "Organizational Procurement",
-        "discipline_id": "Industrial and Systems Engineering",
+        "discipline_id": "is-engg",
+=======
+        "name": " Organizational Procurement",
+             "discipline_id": "is-engg",
+>>>>>>> 925075eb793ff09483d3fc5c83452392a4d3c60e
         "institute_id": "iitkgp",
         "developers": [
             {

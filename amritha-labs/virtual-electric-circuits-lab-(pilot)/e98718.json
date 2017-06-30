@@ -1,7 +1,7 @@
 {
     "experiment": {
         "id":  "e98718",
-        "name": "Kirchhoff’s Laws",
+        "name": "Kirchhoffs Laws",
         "discipline_id": "phy-sc",
         "institute_id": "amrita",
         "developers": [],
@@ -13,7 +13,7 @@
             }
         ],
         "integration_level": 4,
-        "overview": "This experiments deals with Kirchhoff’s Laws",
+        "overview": "This experiments deals with Kirchhoffs Laws",
         "assets": [],
         "sections" : [
             "Theory", 

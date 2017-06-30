@@ -1,13 +1,15 @@
 {"lab": {"id":  "ccnsb07",
 	 "name": "Molecular Interaction",
-	 "discipline_id": "",
-	 "institute_id": "iiit-h",
-	 "developers": [],
-	 "hosting_info": 	 "integration_level": ,
-	 "assets": [{"asset_type": "image", "path": "../../static/IIITH-Molecular-Interation.jpg"},
-	 	    {"asset_type": "video", "path": ""}],
+	 "discipline_id": "chem",
+	        "institute_id": "iiith",
+	        "developers": [],
+		"hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mi-iiith.vlabs.ac.in"},
+		{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CCNSB07+Anytime/about"}],
+		  "integration_level": 6,
+	        "assets": [{"asset_type": "image", "path": "https://github.com/Virtual-Labs/molecular-interactions-iiith/tree/master/src"},
+	 		   {"asset_type": "video", "path": "https://github.com/Virtual-Labs/molecular-interactions-iiith/tree/master/src"}],
 	 "overview": "This lab deals with Molecular Interaction",
-	 "sections" : [{"Introduction"},
+	 "sections" : [{"name":"Introduction"},
 		       {"experiments": ["e99720", "e99719", "e99718", "e99717", "e99716", "e99715", "e99714", "e99713", "e99712", "e99711", "e99710"]}]
 	}
 }

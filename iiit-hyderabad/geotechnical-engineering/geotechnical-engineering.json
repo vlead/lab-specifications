@@ -9,7 +9,7 @@
             {
                 "hosting_status": "hosted",
                 "hosted_on": "cloud",
-                "hosted_url": "ge-iiith.vlabs.ac.in"
+                "hosted_url": "http://ge-iiith.vlabs.ac.in"
             }
         ],
         "integration_level": 4,
@@ -21,7 +21,7 @@
             }, 
             {
                 "experiments" : [
-                    ""
+                    "e98751"
                 ]
             }
         ]

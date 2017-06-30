@@ -1,8 +1,8 @@
 {
     "lab": { 
-        "id":  "no_lab_id",
+        "id":  "wsn-au",
         "name": "wireless sensor network remote triggered lab",
-        "discipline_id": "Computer sciences",
+        "discipline_id": "cse",
         "institute_id": "amrita",
         "developers": [],
         "hosting_info": [

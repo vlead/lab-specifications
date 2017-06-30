@@ -2,7 +2,7 @@
     "experiment": {
         "id":  "e98708",
         "name": "Duty Cycle vs. Power Consumption",
-        "discipline_id": "Computer sciences",
+        "discipline_id": "cse",
         "institute_id": "amrita",
         "developers": [],
         "hosting_info": [

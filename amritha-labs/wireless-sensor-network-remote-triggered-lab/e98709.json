@@ -2,7 +2,7 @@
     "experiment": {
         "id":  "e98709",
         "name": "Range & Connectivity vs. Antenna Power",
-        "discipline_id": "Computer sciences",
+        "discipline_id": "cse",
         "institute_id": "amrita",
         "developers": [],
         "hosting_info": [

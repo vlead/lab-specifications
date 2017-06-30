@@ -1,7 +1,7 @@
 {"experiment": {"id":  "e99312",
 	 	"name": "FBD for autoclavable laboratory fermentor",
 	 	"discipline_id": "ee",
-	        "institute_id": "coep-pune",
+	        "institute_id": "coep",
 	        "developers": [],
 	        "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://ial-coep.vlabs.ac.in"},
 			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://ial-coep.vlabs.ac.in"}],

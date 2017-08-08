@@ -1,0 +1,12 @@
+{"experiment": {"id":  "E98404",
+                "name": "Coupled Harmonic Oscillator",
+                "overview": "This experiment deals with Coupled Harmonic Oscillator",
+                "sections" : ["Theory",
+                              "Procedure",
+                              "Self Evaluation",
+                              "Simulator",
+                              "Feedback"
+                             ],
+ "content-type": "org"                                                
+               }
+}

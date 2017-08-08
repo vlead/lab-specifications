@@ -1,0 +1,11 @@
+{"experiment": {"id":  "E98406",
+                "name": "LCR Circuit",
+                "overview": "This experiment deals with LCR Circuit",
+                "sections" : ["Theory",
+                              "Procedure",
+                              "Simulator",
+                              "Feedback"
+                             ],
+ "content-type": "org"                                                
+               }
+}

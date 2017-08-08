@@ -1,0 +1,22 @@
+{"lab": {
+  "id":  "phy19",
+  "name": "Oscillations",
+  "overview": "This lab deals with Oscillations",
+  "sections": [ 
+    {"name": "Introduction" }, 
+    {
+      "experiments" : ["E98411", 
+ 		       "E98410", 
+ 		       "E98409",
+ 		       "E98408",
+ 		       "E98407",
+ 		       "E98406",
+ 		       "E98405",
+ 		       "E98404",
+ 		       "E98403",
+ 		       "E98402",                        
+                      ]
+    }
+  ]
+}
+}

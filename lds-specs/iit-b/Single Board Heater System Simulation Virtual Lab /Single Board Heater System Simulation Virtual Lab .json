@@ -1,0 +1,15 @@
+{"lab": {"id":  "ee32-iitb",
+	 "name": "Single Board Heater System Simulation Virtual Lab ",
+	 "discipline_id": "chem",
+	 "institute_id": "iitb",
+	 "developers": [],
+	 "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://http://ee32-iitb.vlabs.ac.in/"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIT-Bombay+EE32-IITB+Anytime/about"}],
+	 "integration_level": 0,
+	 "assets": [{"asset_type": "image", "path": "../../static/Amrita-Advanced-Analytical-Chemistry-Virtual-Lab.jpg"},
+	 	    {"asset_type": "video", "path": ""}],
+	 "overview": "This lab deals with Advanced Analytical Chemistry Virtual Lab",
+	 "sections" : [{"name":"Introduction"},
+		       {"experiments": ["e98328", "e98327", "e98326", "e98325", "e98324", "e98323", "e98322", "e98321"]}]
+	}
+}

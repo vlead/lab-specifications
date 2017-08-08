@@ -1,0 +1,15 @@
+{"lab": {"id":  "mech17",
+	 "name": "Micromachining Laboratory",
+	 "discipline_id": "mech",
+	 "institute_id": "coep",
+	 "developers": [],
+	 "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mm-coep.vlabs.ac.in"},
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "https://vlabs.ac.in/courses/course-v1:COE-PUNE+MECH17+Anytime/about"}],
+	 "integration_level": 6,
+	 "assets": [{"asset_type": "image", "path": "../../static/COEP-Micromachining-Laboratory.jpg"},
+	 	    {"asset_type": "video", "path": "https://github.com/Virtual-Labs/micro-machining-laboratory-coep"}],
+	 "overview": "This lab deals with Micromachining Laboratory",
+	 "sections" : [{"name":"Introduction"},
+		       {"experiments": ["e99909", "e99908", "e99907", "e99906", "e99905", "e99904", "e99903", "e99902"]}]
+	}
+}

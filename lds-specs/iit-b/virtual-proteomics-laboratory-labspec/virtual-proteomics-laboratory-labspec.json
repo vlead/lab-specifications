@@ -1,0 +1,26 @@
+
+
+
+
+{
+    "lab": { 
+        "id":  "biotech25",
+        "name": "Virtual Proteomics Lab",
+        "discipline_id": "biotech",
+        "institute_id": "iitb",
+        "developers": [],
+        "hosting_info": [
+            {
+                "hosting_status": "hosted",
+                "hosted_on": "institute",
+                "hosted_url": "http://pe-iitb.vlabs.ac.in/"
+            }
+        ],
+        "integration_level": 4,
+        "overview": "This lab deals with urban transportation systems planning lab",
+        "assets": [{"asset_type": "Images", "path": "../../static/IITB-Virtual-Proteomics-Lab.jpg"},
+	            {"asset_type": "Videos", "path": "https://github.com/Virtual-Labs/protein-engg-iitb"}],
+        "sections" : [{"name":"Introduction"},
+	               {"experiments": ["e99616", "e99615", "e99614", "e99613", "e99612", "e99611", "e99610", "e99609", "e99608", "e99607", "e99606", "e99605"]}]
+	}
+}

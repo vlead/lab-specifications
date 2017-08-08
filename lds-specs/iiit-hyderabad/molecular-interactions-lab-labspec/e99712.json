@@ -1,0 +1,20 @@
+{"experiment": {"id":  "e99712",
+	 	"name": "Solvent viscous forces on a polyatomic molecule",
+	 	"discipline_id": "chem",
+	        "institute_id": "iiith",
+	        "developers": [],
+		"hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://mi-iiith.vlabs.ac.in"},
+		{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIIT-Hyderabad+CCNSB07+Anytime/about"}],
+		  "integration_level": 6,
+	        "assets": [{"asset_type": "image", "path": "https://github.com/Virtual-Labs/molecular-interactions-iiith/tree/master/src"},
+	 		   {"asset_type": "video", "path": "https://github.com/Virtual-Labs/molecular-interactions-iiith/tree/master/src"}],
+	 	"overview": "This experiments deals with Solvent viscous forces on a polyatomic molecule",
+	 	"sections" : ["Introduction", 
+ 			      "Theory", 
+ 			      "Objective", 
+ 			      "Experiment", 
+ 			      "Manual", 
+ 			      "Quizzes", 
+ 			      "Further Readings"]		
+		}
+}

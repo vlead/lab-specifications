@@ -4,7 +4,7 @@
 	 "institute_id": "iitb",
 	 "developers": [],
 	 "hosting_info": [{"hosting_status": "hosted", "hosted_on": "cloud", "hosted_url": "http://vlabs.iitb.ac.in/vlab/electrical/index.html#"},
-			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "http://vlabs.iitb.ac.in/vlab/electrical/index.html#"}],
+			 {"hosting_status": "hosted", "hosted_on": "openedx", "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIT-Bombay+ECE40+Anytime/about"}],
 	 "integration_level": 6,
 	 "assets": [{"asset_type": "image", "path": "../../static/IITB-Electronic-Devices-and-Circuits.jpg"},
 	 	    {"asset_type": "video", "path": "https://github.com/Virtual-Labs/electrical-engg-iitb"}],

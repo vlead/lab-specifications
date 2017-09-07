@@ -19,7 +19,7 @@
             {
                 "hosting_status": "hosted",
                 "hosted_on": "openedx",
-                "hosted_url": "http://10.142.141.68:8080/siplabs/"
+                "hosted_url": "https://vlabs.ac.in/courses/course-v1:IIT-Bombay+CIVIL11-IITB+Anytime/about"
             }
         ],
         "integration_level": 4,

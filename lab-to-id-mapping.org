@@ -106,26 +106,22 @@
 |   85 | eerc04      | Basic Structural Analysis                                                            |
 |   86 | eerc05      | Geotechnical Engineering Lab                                                         |
 |   87 | eerc06      | Structural Dynamics                                                                  |
-|   88 | emt         | Electro Magnetic Theory                                                              |
 |   89 | hss01       | Creative Design, Prototyping and Experiential Simulation Lab                         |
 |   90 | hss02       | Virtual English and Communication Lab                                                |
 |   91 | hss03       | Virtual Anthropology Lab                                                             |
-|   92 | mech01      | Virtual Laboratory Experience in Fluid and Thermal Sciences                          |
+|   92 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
 |   93 | mech04      | Vibration and Acoustics Lab                                                          |
 |   94 | mech05      | Mechanics of Machine                                                                 |
 |   95 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |
 |   96 | mech17      | Micromachining Laboratory                                                            |
 |   97 | mech18      | Fab Laboratory                                                                       |
 |   98 | mech21      | Machine Dynamics and Mechanical Vibrations                                           |
-|   99 | mech26      | Metal Forming and Solid Mechanics                                                    |
-|  100 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  101 | mech28      | Robotics Simulation Lab                                                              |
-|  102 | mech32      | Virtual Lab for Multiphase Flow                                                      |
-|  103 | mech31      | Condition Monitoring and Fault Simulation Lab                                        |
-|  104 | mech30      | Mechanical Systems and Signal Processing                                             |
-|  105 | mech27      | Mine Automation and Virtual Reality                                                  |
-|  106 | chem-engg01 | Chemical Process Dynamics                                                            |
-|  107 | ee26        | Virtual High Voltage Lab                                                             |
+|  101 | VLS04       | Robotics Simulation Lab                                                              |
+|  102 | VLS19       | Virtual Lab for Multiphase Flow                                                      |
+|  103 | VLS17       | Model Based Fault Detection Lab                                                      |
+|  104 | VLS16       | Mechanical Systems and Signal Processing                                             |
+|  106 | VLS14       | Chemical Process Dynamics                                                            |
+|  107 | MVL04       | Virtual High Voltage Lab                                                             |
 |  108 | ee25        | Basic Electrical and Electronics Lab                                                 |
 |  109 | ece30       | Microelectronics and VLSI Engineering                                                |
 |  110 | mech29      | Mechanisms and Robotics Lab                                                          |

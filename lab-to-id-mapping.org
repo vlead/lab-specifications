@@ -122,16 +122,11 @@
 |  104 | VLS16       | Mechanical Systems and Signal Processing                                             |
 |  106 | VLS14       | Chemical Process Dynamics                                                            |
 |  107 | MVL04       | Virtual High Voltage Lab                                                             |
-|  108 | ee25        | Basic Electrical and Electronics Lab                                                 |
-|  109 | ece30       | Microelectronics and VLSI Engineering                                                |
-|  110 | mech29      | Mechanisms and Robotics Lab                                                          |
-|  111 | ee27        | Electro Mechanical Conversion                                                        |
-|  112 | mech33      | Virtual Lab for Mechanical Vibrations                                                |
-|  113 | mech34      | Machinery Health Assessment Lab                                                      |
-|  114 | mech35      | Virtual Robotics Lab                                                                 |
-|  115 | chem-engg02 | Hydrodynamics and Transport phenomena in Packed Bed and Heat Exchangers              |
-|  116 | civil17     | Structural Engineering Lab                                                           |
-|  117 | ee28        | Electrical Machines, Power Electronics and Drives, Power Systems and Instrumentation |
+|  108 | MVL02       | Basic Electronics Virtual Laboratory                                                 |
+|  109 | MVL01       | Microelectronics and VLSI Engineering                                                |
+|  110 | MVL03       | Mechanisms and Robotics Lab                                                          |
+|  111 | ee27        | Remote Triggered Electro Mechanical Conversion                                       |
+|  112 | me01        | Virtual Lab for Mechanical Vibrations                                                |
 |  118 | ece31       | Virtual Circuits Laboratory                                                          |
 |  119 | mech36      | Virtual and Remote Robotic and Mechatronic Laboratory                                |
 |  120 | ece39       | VLSI Design and Verification                                                         |

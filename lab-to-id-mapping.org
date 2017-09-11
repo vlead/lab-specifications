@@ -57,7 +57,6 @@
 |   29 | cse07       | Databases                                                                            |
 |   30 | cse08       | Software Engineering                                                                 |
 |   31 | cse09       | Linux Lab                                                                            |
-|   32 | cse10       | Computer Architecture and Organization                                               |
 |   33 | cse11       | Computer Organization                                                                |
 |   34 | cse12       | FPGA and Embedded System Lab                                                         |
 |   35 | cse13       | Advanced VLSI                                                                        |
@@ -72,30 +71,24 @@
 |   44 | cse22       | Artificial Neural Networks                                                           |
 |   45 | cse23       | Computational Linguistics                                                            |
 |   46 | cse24       | Natural Language Processing                                                          |
-|   47 | cse25       | Wireless Sensor Networks                                                             |
-|   48 | cse26       | Network Security                                                                     |
-|   49 | cse28       | Advanced Network Technologies                                                        |
 |   50 | cse29       | Cryptography                                                                         |
 |   51 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
 |   52 | ece01       | Speech Signal Processing (IIT-G)                                                     |
-|   53 | ece02       | Electro Magnetic Transmission (Virtual MEMS Lab)                                     |
 |   54 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
 |   55 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
 |   56 | eee05       | Digital VLSI Design Virtual Lab                                                      |
 |   57 | VLS06       | Digital Signal Processing Lab                                                        |
-|   58 | ece07       | Digital Electronics Circuit Lab                                                      |
+|   58 | VLS07       | Digital Electronics Circuit Lab                                                      |
 |   59 | ece08       | Engineering Electromagnetic Lab                                                      |
-|   60 | ece09       | Wireless Lab                                                                         |
 |   61 | ece10       | Signals and Systems Laboratory                                                       |
 |   62 | ece11       | Systems, Communication and Control Laboratory                                        |
 |   63 | ece18       | RF Microwave Characterization Lab                                                    |
 |   64 | ece19       | Hybrid Electronics                                                                   |
 |   65 | ece21       | Virtual Queuing Networks Modelling                                                   |
 |   66 | ece22       | Virtual Microwave and Antenna Lab                                                    |
-|   67 | ece23       | Digital Electronics                                                                  |
-|   68 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
+|   67 | VLS07       | Digital Electronics                                                                  |
+|   68 | idte-dei    | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
 |   69 | ece28       | FPGA and Digital Design                                                              |
-|   70 | eee01       | Power Electronics                                                                    |
 |   71 | eee02       | Electrical Machines Laboratory                                                       |
 |   72 | eee03       | Electronic Instrumentation                                                           |
 |   73 | eee05       | Sensors Modeling and Simulation                                                      |

@@ -81,8 +81,8 @@
 |   53 | ece02       | Electro Magnetic Transmission (Virtual MEMS Lab)                                     |
 |   54 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
 |   55 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
-|   56 | ece05       | Digital VLSI Design Virtual Lab                                                      |
-|   57 | ece06       | Digital Signal Processing Lab                                                        |
+|   56 | eee05       | Digital VLSI Design Virtual Lab                                                      |
+|   57 | VLS06       | Digital Signal Processing Lab                                                        |
 |   58 | ece07       | Digital Electronics Circuit Lab                                                      |
 |   59 | ece08       | Engineering Electromagnetic Lab                                                      |
 |   60 | ece09       | Wireless Lab                                                                         |

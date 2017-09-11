@@ -127,9 +127,7 @@
 |  110 | MVL03       | Mechanisms and Robotics Lab                                                          |
 |  111 | ee27        | Remote Triggered Electro Mechanical Conversion                                       |
 |  112 | me01        | Virtual Lab for Mechanical Vibrations                                                |
-|  118 | ece31       | Virtual Circuits Laboratory                                                          |
-|  119 | mech36      | Virtual and Remote Robotic and Mechatronic Laboratory                                |
-|  120 | ece39       | VLSI Design and Verification                                                         |
+|  118 | ece31       | Virtual Electric Circuits Laboratory                                                 |
 |  121 | biotech25   | Virtual Proteomics Laboratory                                                        |
 |  122 | ece32       | Technology CAD (TCAD) Laboratory                                                     |
 |  123 | ee32        | Single Board Heater System                                                           |
@@ -142,7 +140,7 @@
 |  130 | biotech07   | Systems Biology Virtual Lab                                                          |
 |  131 | biotech06   | Computer-Aided Drug Design Virtual Lab                                               |
 |  132 | biotech05   | Ecology Virtual Lab                                                                  |
-|  133 | ece33       | Fading Channels and Mobile Communications                                            |
+|  133 | VLS05       | Fading Channels and Mobile Communications                                            |
 |  134 | biotech04   | Biological Image processing Virtual Lab                                              |
 |  135 | biotech11   | Bio-inspired Robotics Virtual Lab (Remote Triggered)                                 |
 |  136 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                            |

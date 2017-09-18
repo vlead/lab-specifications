@@ -191,7 +191,7 @@
 |  162 | mech46      | Mechanical Engineering Lab                                                           |
 |  163 | ece35       | Microelectronics Lab                                                                 |
 |  164 | mech47      | Model Based Fault Detection Lab                                                      |
-|  165 | ece36       | Virtual Pulse, Switching and Analogue Circuits                                       |
+|  165 | VLS03       | Virtual Pulse, Switching and Analogue Circuits                                       |
 |  166 | biotech26   | Biomedical Instrumentation Lab                                                       |
 |  167 | ee34        | Virtual Interactive Lab                                                              |
 |  168 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |

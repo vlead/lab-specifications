@@ -151,7 +151,7 @@
 |  122 | biotech18   | Population Ecology Virtual Lab I                                                     |
 |  123 | biotech17   | Population Ecology Virtual Lab II                                                    |
 |  124 | biotech16   | Immunology Virtual Lab I                                                             |
-|  125 | civil18     | Soft Computing Tools in Engineering                                                  |
+|  125 | VLS11       | Soft Computing Tools in Engineering                                                  |
 |  126 | biotech15   | Immunology Virtual Lab II                                                            |
 |  127 | biotech14   | Microbiology Virtual Lab I                                                           |
 |  128 | biotech13   | Microbiology Virtual Lab II                                                          |

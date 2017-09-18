@@ -199,7 +199,7 @@
 |  170 | ece37       | Advanced Pulse and Switching Lab                                                     |
 |  171 | cse32       | Information System Analysis and Design virtual Lab                                   |
 |  172 | ece38       | Semiconductor Devices Laboratory                                                     |
-|  173 | biotech24   | Plant Metabolic Pathways Virtual Laboratory                                          |
+|  173 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
 |  174 | aero04      | Satellite Modelling and Simulation                                                   |
 |  175 | phy01       | Virtual Astrophysics Lab                                                             |
 |  176 | phy12       | Virtual Microwave Laboratory                                                         |

@@ -206,7 +206,8 @@
 |  177 | phy14       | Physical Sciences                                                                    |
 |  178 | phy19       | Virtual Laboratory on Oscillations                                                   |
 |  179 | ece40       | Electronics Devices and Circuits                                                     |
-|  180 | civil20     | Fluid Mechanics lab                                                                  |
+|  180 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
+|  181 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

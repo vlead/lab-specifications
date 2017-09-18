@@ -133,7 +133,7 @@
 |  104 | ee32        | Single Board Heater System                                                           |
 |  105 | ee33        | Power Systems Lab                                                                    |
 |  106 | biotech08   | Bioinformatics Virtual Lab I                                                         |
-|  107 | phy-sc20    | Virtual Optics Lab                                                                   |
+|  107 | ov-au       | Virtual Optics Lab                                                                   |
 |  108 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
 |  109 | biotech09   | Bioinformatics Virtual Lab II                                                        |
 |  110 | biotech10   | Bioinformatics Virtual Lab III                                                       |
@@ -156,7 +156,7 @@
 |  127 | biotech14   | Microbiology Virtual Lab I                                                           |
 |  128 | biotech13   | Microbiology Virtual Lab II                                                          |
 |  129 | biotech03   | Molecular biology Virtual Lab I                                                      |
-|  130 | biotech21   | Molecular biology Virtual Lab II                                                     |
+|  130 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
 |  131 | biotech22   | Cell biology Virtual Lab I                                                           |
 |  132 | mbvii-au    | Cell biology Virtual Lab II                                                          |
 |  133 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
@@ -168,8 +168,8 @@
 |  139 | phy-sc27    | Virtual Modern Physics Lab                                                           |
 |  140 | phy-sc28    | Virtual Harmonic Motion and Waves Lab                                                |
 |  141 | phy-sc29    | Virtual Physical Energy and Materials Science Lab                                    |
-|  142 | chem06      | Physical Chemistry(Amrita)                                                           |
-|  143 | ocv-au      | Organic Chemistry                                                                    |
+|  142 | pcv-au      | Physical Chemistry Virtual Lab                                                       |
+|  143 | ocv-au      | Organic Chemistry virtual Lab                                                        |
 |  144 | icv-au      | Inorganic Chemistry                                                                  |
 |  145 | cse31       | Virtual Wireless and Security                                                        |
 |  146 | ee29        | Real Time Embedded Systems Laboratory                                                |

@@ -121,7 +121,7 @@
 |   92 | VLS17       | Model Based Fault Detection Lab                                                      |
 |   93 | VLS16       | Mechanical Systems and Signal Processing                                             |
 |   94 | VLS14       | Chemical Process Dynamics                                                            |
-|   95 | MVL04       | Virtual High Voltage Lab                                                             |
+|   95 | ee26        | Virtual High Voltage Lab                                                             |
 |   96 | MVL02       | Basic Electronics Virtual Laboratory                                                 |
 |   97 | MVL01       | Microelectronics and VLSI Engineering                                                |
 |   98 | MVL03       | Mechanisms and Robotics Lab                                                          |

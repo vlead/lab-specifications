@@ -208,7 +208,8 @@
 |  179 | ece40       | Electronics Devices and Circuits                                                     |
 |  180 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
 |  181 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  182 | civil20     | Fluid Mechanics lab                                                                  |
+|  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab
+|  183 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

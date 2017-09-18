@@ -169,8 +169,8 @@
 |  140 | phy-sc28    | Virtual Harmonic Motion and Waves Lab                                                |
 |  141 | phy-sc29    | Virtual Physical Energy and Materials Science Lab                                    |
 |  142 | chem06      | Physical Chemistry(Amrita)                                                           |
-|  143 | chem07      | Organic Chemistry                                                                    |
-|  144 | chem09      | Inorganic Chemistry                                                                  |
+|  143 | ocv-au      | Organic Chemistry                                                                    |
+|  144 | icv-au      | Inorganic Chemistry                                                                  |
 |  145 | cse31       | Virtual Wireless and Security                                                        |
 |  146 | ee29        | Real Time Embedded Systems Laboratory                                                |
 |  147 | civil19     | Advanced Geotechnical Lab                                                            |
@@ -208,7 +208,7 @@
 |  179 | ece40       | Electronics Devices and Circuits                                                     |
 |  180 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
 |  181 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab
+|  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
 |  183 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1

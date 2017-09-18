@@ -129,7 +129,7 @@
 |  100 | me01        | Virtual Lab for Mechanical Vibrations                                                |
 |  101 | ece31       | Virtual Electric Circuits Laboratory                                                 |
 |  102 | biotech25   | Virtual Proteomics Laboratory                                                        |
-|  103 | ece32       | Technology CAD (TCAD) Laboratory                                                     |
+|  103 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |
 |  104 | ee32-iitb   | Single Board Heater System                                                           |
 |  105 | ee33        | Power Systems Lab                                                                    |
 |  106 | biotech08   | Bioinformatics Virtual Lab I                                                         |

@@ -222,7 +222,8 @@
 |  193 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
 |  194 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
 |  195 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  196 | civil20     | Fluid Mechanics lab                                                                  |
+|  196 | rtv04       | Solid State Devices Laboratory                                                       |
+|  197 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -163,8 +163,8 @@
 |  134 | phy-sc23    | Virtual Advanced Mechanics Lab                                                       |
 |  135 | phy-sc24    | Laser Optics Virtual Lab                                                             |
 |  136 | ee31        | Analog Signals, Network and Measurement Laboratory                                   |
-|  137 | phy-sc25    | Virtual Electricity and Magnetism Lab                                                |
-|  138 | phy-sc26    | Virtual Heat and Thermodynamics Lab                                                  |
+|  137 | emv-au      | Virtual Electricity and Magnetism Lab                                                |
+|  138 | htv-au      | Virtual Heat and Thermodynamics Lab                                                  |
 |  139 | phy-sc27    | Virtual Modern Physics Lab                                                           |
 |  140 | phy-sc28    | Virtual Harmonic Motion and Waves Lab                                                |
 |  141 | phy-sc29    | Virtual Physical Energy and Materials Science Lab                                    |

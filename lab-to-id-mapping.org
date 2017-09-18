@@ -159,7 +159,7 @@
 |  130 | biotech21   | Molecular biology Virtual Lab II                                                     |
 |  131 | biotech22   | Cell biology Virtual Lab I                                                           |
 |  132 | mbvii-au    | Cell biology Virtual Lab II                                                          |
-|  133 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                        |
+|  133 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
 |  134 | phy-sc23    | Virtual Advanced Mechanics Lab                                                       |
 |  135 | phy-sc24    | Laser Optics Virtual Lab                                                             |
 |  136 | ee31        | Analog Signals, Network and Measurement Laboratory                                   |

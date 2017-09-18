@@ -41,7 +41,7 @@
 |   13 | chem05      | Unit Operations, Reaction Engineering and Process Control                            |
 |   14 | chs12       | Virtual Chemistry Lab                                                                |
 |   15 | chs13       | Ultrafast Laser Spectroscopy                                                         |
-|   16 | chs14       | Analytical Lab                                                                       |
+|   16 | ai-dei      | Analytical Lab                                                                       |
 |   17 | civil07     | Strength of Materials Lab                                                            |
 |   18 | civil09     | Traffic Engineering                                                                  |
 |   19 | civil11     | Virtual Satellite Image Processing and Analysis                                      |

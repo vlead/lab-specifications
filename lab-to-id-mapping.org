@@ -162,7 +162,7 @@
 |  133 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
 |  134 | phy-sc23    | Virtual Advanced Mechanics Lab                                                       |
 |  135 | phy-sc24    | Laser Optics Virtual Lab                                                             |
-|  136 | ee31        | Analog Signals, Network and Measurement Laboratory                                   |
+|  136 | VLS18       | Analog Signals, Network and Measurement Laboratory                                   |
 |  137 | emv-au      | Virtual Electricity and Magnetism Lab                                                |
 |  138 | htv-au      | Virtual Heat and Thermodynamics Lab                                                  |
 |  139 | phy-sc27    | Virtual Modern Physics Lab                                                           |

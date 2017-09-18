@@ -106,7 +106,7 @@
 |   77 | eerc04      | Basic Structural Analysis                                                            |
 |   78 | eerc05      | Geotechnical Engineering Lab                                                         |
 |   79 | eerc06      | Structural Dynamics                                                                  |
-|   80 | hss01       | Creative Design, Prototyping and Experiential Simulation Lab                         |
+|   80 | hci-iitg    | Creative Design, Prototyping and Experiential Simulation Lab                         |
 |   81 | hss02       | Virtual English and Communication Lab                                                |
 |   82 | hss03       | Virtual Anthropology Lab                                                             |
 |   83 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |

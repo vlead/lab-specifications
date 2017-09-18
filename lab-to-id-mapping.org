@@ -210,7 +210,8 @@
 |  181 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
 |  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
 |  183 | emt         | Electromagnetic Theory                                                               |
-|  184 | civil20     | Fluid Mechanics lab                                                                  |
+|  184 | mddl        | Modern Digital Design Lab                                                            |
+|  185 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -87,7 +87,7 @@
 |   58 | ece21       | Virtual Queuing Networks Modelling                                                   |
 |   59 | ece22       | Virtual Microwave and Antenna Lab                                                    |
 |   60 | VLS07       | Digital Electronics                                                                  |
-|   61 | idte-dei    | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
+|   61 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
 |   62 | ece28       | FPGA and Digital Design                                                              |
 |   63 | eee02       | Electrical Machines Laboratory                                                       |
 |   64 | eee03       | Electronic Instrumentation                                                           |

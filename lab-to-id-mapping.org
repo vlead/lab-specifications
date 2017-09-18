@@ -224,7 +224,8 @@
 |  195 | rtv03       | Structural Characterization of Materials Laboratory                                  |
 |  196 | rtv04       | Solid State Devices Laboratory                                                       |
 |  197 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
-|  198 | civil20     | Fluid Mechanics lab                                                                  |
+|  198 | fmc-nitk    | Fluid Machinery Lab                                                                  |
+|  199 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

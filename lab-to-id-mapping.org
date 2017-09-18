@@ -213,7 +213,8 @@
 |  184 | mddl        | Modern Digital Design Lab                                                            |
 |  185 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
 |  186 | wp-iitk     | Wave and Phenomena (Oscillations)                                                    |
-|  187 | civil20     | Fluid Mechanics lab                                                                  |
+|  187 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
+|  188 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

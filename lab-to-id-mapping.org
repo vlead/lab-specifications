@@ -221,7 +221,8 @@
 |  192 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
 |  193 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
 |  194 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  195 | civil20     | Fluid Mechanics lab                                                                  |
+|  195 | rtv03       | Structural Characterization of Materials Laboratory                                  |
+|  196 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -211,7 +211,8 @@
 |  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
 |  183 | emt         | Electromagnetic Theory                                                               |
 |  184 | mddl        | Modern Digital Design Lab                                                            |
-|  185 | civil20     | Fluid Mechanics lab                                                                  |
+|  185 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |                               
+|  186 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

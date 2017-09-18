@@ -216,7 +216,8 @@
 |  187 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
 |  188 | cse10       | Computer Organisation and Architecture Lab                                           |
 |  189 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
-|  190 | civil20     | Fluid Mechanics lab                                                                  |
+|  190 | VLS10       | Software Engineering Lab                                                             |
+|  191 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

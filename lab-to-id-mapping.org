@@ -130,7 +130,7 @@
 |  101 | ece31       | Virtual Electric Circuits Laboratory                                                 |
 |  102 | biotech25   | Virtual Proteomics Laboratory                                                        |
 |  103 | ece32       | Technology CAD (TCAD) Laboratory                                                     |
-|  104 | ee32        | Single Board Heater System                                                           |
+|  104 | ee32-iitb   | Single Board Heater System                                                           |
 |  105 | ee33        | Power Systems Lab                                                                    |
 |  106 | biotech08   | Bioinformatics Virtual Lab I                                                         |
 |  107 | ov-au       | Virtual Optics Lab                                                                   |

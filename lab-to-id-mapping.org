@@ -207,7 +207,8 @@
 |  178 | phy19       | Virtual Laboratory on Oscillations                                                   |
 |  179 | ece40       | Electronics Devices and Circuits                                                     |
 |  180 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
-|  181 | civil20     | Fluid Mechanics lab                                                                  |
+|  181 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
+|  182 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

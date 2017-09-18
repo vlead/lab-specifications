@@ -217,7 +217,8 @@
 |  188 | cse10       | Computer Organisation and Architecture Lab                                           |
 |  189 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
 |  190 | VLS10       | Software Engineering Lab                                                             |
-|  191 | civil20     | Fluid Mechanics lab                                                                  |
+|  191 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
+|  192 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

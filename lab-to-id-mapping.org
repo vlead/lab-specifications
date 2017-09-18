@@ -181,7 +181,7 @@
 |  152 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
 |  153 | aero03      | Aerospace Virtual laboratory                                                         |
 |  154 | phy-sc30    | Optical Device Characterizations                                                     |
-|  155 | mech42      | Kinematics and Dynamics of Mechanisms                                                |
+|  155 | VLS01       | Kinematics and Dynamics of Mechanisms                                                |
 |  156 | phy-sc31    | Low Temp Electrical Transport and Property Measurements                              |
 |  157 | mech43      | Mechanical Sciences - Liquid Crystal                                                 |
 |  158 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |

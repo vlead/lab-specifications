@@ -73,7 +73,7 @@
 |   44 | cse24       | Natural Language Processing                                                          |
 |   45 | cse29       | Cryptography                                                                         |
 |   46 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
-|   47 | ece01       | Speech Signal Processing (IIT-G)                                                     |
+|   47 | eee03       | Speech Signal Processing (IIT-G)                                                     |
 |   48 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
 |   49 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
 |   50 | eee05       | Digital VLSI Design Virtual Lab                                                      |
@@ -90,7 +90,7 @@
 |   61 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
 |   62 | ece28       | FPGA and Digital Design                                                              |
 |   63 | eee02       | Electrical Machines Laboratory                                                       |
-|   64 | eee03       | Electronic Instrumentation                                                           |
+|   64 | eil-iitg    | Electronic Instrumentation                                                           |
 |   65 | eee05       | Sensors Modeling and Simulation                                                      |
 |   66 | eee06       | Virtual Power Laboratory                                                             |
 |   67 | eee07       | Virtual Power Electronics and Electric Drives Lab                                    |

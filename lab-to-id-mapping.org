@@ -172,7 +172,7 @@
 |  143 | ocv-au      | Organic Chemistry virtual Lab                                                        |
 |  144 | icv-au      | Inorganic Chemistry                                                                  |
 |  145 | cse31       | Virtual Wireless and Security                                                        |
-|  146 | ee29        | Real Time Embedded Systems Laboratory                                                |
+|  146 | VLS13       | Real Time Embedded Systems Laboratory                                                |
 |  147 | civil19     | Advanced Geotechnical Lab                                                            |
 |  148 | mech37      | Acoustics Virtual Lab                                                                |
 |  149 | mech38      | General Purpose Production Shop Simulation Lab                                       |

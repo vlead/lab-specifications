@@ -126,7 +126,7 @@
 |   97 | MVL01       | Microelectronics and VLSI Engineering                                                |
 |   98 | MVL03       | Mechanisms and Robotics Lab                                                          |
 |   99 | ee27        | Remote Triggered Electro Mechanical Conversion                                       |
-|  100 | me01        | Virtual Lab for Mechanical Vibrations                                                |
+|  100 | mv-iitg     | Virtual Lab for Mechanical Vibrations                                                |
 |  101 | ece31       | Virtual Electric Circuits Laboratory                                                 |
 |  102 | biotech25   | Virtual Proteomics Laboratory                                                        |
 |  103 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |

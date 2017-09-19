@@ -43,7 +43,7 @@
 |   15 | chs13       | Ultrafast Laser Spectroscopy                                                         |
 |   16 | ai-dei      | Analytical Lab                                                                       |
 |   17 | civil07     | Strength of Materials Lab                                                            |
-|   18 | civil09     | Traffic Engineering                                                                  |
+|   18 | tel-iitb    | Traffic Engineering                                                                  |
 |   19 | civil11     | Virtual Satellite Image Processing and Analysis                                      |
 |   20 | civil13     | Urban Transportation Systems Planning                                                |
 |   21 | civil15     | Surveying Lab                                                                        |

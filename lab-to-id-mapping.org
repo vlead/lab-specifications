@@ -36,7 +36,7 @@
 |    8 | ccnsb05     | Circular Dichroism Spectroscopy                                                      |
 |    9 | ccnsb06     | Physical Chemistry (IIIT-H)                                                          |
 |   10 | ccnsb07     | Molecular Interactions                                                               |
-|   11 | che02       | Virtual Lab for Mass Transfer                                                        |
+|   11 | vmt-iitg    | Virtual Lab for Mass Transfer                                                        |
 |   12 | chem01      | Chemical Engineering                                                                 |
 |   13 | chem05      | Unit Operations, Reaction Engineering and Process Control                            |
 |   14 | chs12       | Virtual Chemistry Lab                                                                |

@@ -76,7 +76,7 @@
 |   47 | eee03       | Speech Signal Processing (IIT-G)                                                     |
 |   48 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
 |   49 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
-|   50 | eee05       | Digital VLSI Design Virtual Lab                                                      |
+|   50 | vlsi-iitg   | Digital VLSI Design Virtual Lab                                                      |
 |   51 | VLS06       | Digital Signal Processing Lab                                                        |
 |   52 | VLS07       | Digital Electronics Circuit Lab                                                      |
 |   53 | ece08       | Engineering Electromagnetic Lab                                                      |

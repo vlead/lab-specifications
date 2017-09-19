@@ -109,7 +109,7 @@
 |   80 | hci-iitg    | Creative Design, Prototyping and Experiential Simulation Lab                         |
 |   81 | hss02       | Virtual English and Communication Lab                                                |
 |   82 | hss03       | Virtual Anthropology Lab                                                             |
-|   83 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
+|   83 | mfts-iitg   | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
 |   84 | mech04      | Vibration and Acoustics Lab                                                          |
 |   85 | mech05      | Mechanics of Machine                                                                 |
 |   86 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |

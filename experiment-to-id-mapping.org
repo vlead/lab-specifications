@@ -1632,5 +1632,15 @@
   {"id" : "e98315", "name": "Micrometry (Remote Trigger)"},
   {"id" : "e98314", "name": "Multicompartmental modelling of biophysical behaviour of neurons (Remote Trigger)"},
   {"id" : "e98313", "name": "Understanding Photosynthesis as a Biologically Closed Process"},
+  {"id" : "e98312", "name": "Introduction to Biological Image Analysis"},
+  {"id" : "e98311", "name": "Quantification of Lignin in Tissue Sections"},
+  {"id" : "e98310", "name": "Analysis of Cell Morphology"},
+  {"id" : "e98309", "name": "Counting of Fluorescent Particles"},
+  {"id" : "e98308", "name": "Counting of Total Fluorescence in a Cell"},
+  {"id" : "e98307", "name": "Analysis on Molecular Gels: A Case Study in Polyacrylamide Gel Electrophoresis"},
+  {"id" : "e98306", "name": "Quantification of Stained Liver Cells"},
+  {"id" : "e98305", "name": "Quantification of Bacterial Colonies on an Agar Plate"},
+  {"id" : "e98304", "name": "Quantification of Amino Acids Present in a Mixture"},
+  {"id" : "e98303", "name": "Quantification of Protein Present in a Sample"}
  ]
 }

@@ -1,0 +1,36 @@
+{
+    "lab": { 
+        "id":  "biotech12",
+        "name": "virtual biophysics lab (Remote trigger)",
+        "discipline_id": "biotech",
+        "institute_id": "amrita",
+        "developers": [],
+        "hosting_info": [
+            {
+                "hosting_status": "hosted",
+                "hosted_on": "institute",
+                "hosted_url": "http://vlab.amrita.edu/index.php?sub=3&brch=258"
+            }
+        ],
+        "integration_level": 4,
+        "overview": "This lab deals with biophysics lab (Remote trigger)",
+        "assets": [],
+        "sections": [ 
+            {
+                "name": "Introduction"
+            }, 
+            {
+                "experiments" : [
+                    "e98320", 
+                    "e98319", 
+                    "e98318", 
+                    "e98317", 
+                    "e98316", 
+                    "e98315", 
+                    "e98314", 
+                    "e98313"
+                ]
+            }
+        ]
+    }
+}

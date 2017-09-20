@@ -1623,6 +1623,14 @@
   {"id" : "e98324", "name": "Identifying First Order Transfer Function using ramp response data"},
   {"id" : "e98323", "name": "Conducting Sine Test simulation"},
   {"id" : "e98322", "name": "Frequency Analysis of sine test data"},
-  {"id" : "e98321", "name": "PI Controller using Trapezoidal Approximation"}
+  {"id" : "e98321", "name": "PI Controller using Trapezoidal Approximation"},
+  {"id" : "e98320", "name": "Using a light microscope (Remote Trigger)"},
+  {"id" : "e98319", "name": "Observing an animal cell using a light microscope (Remote Trigger)"},
+  {"id" : "e98318", "name": "Study of RC Properties of Cell Membrane (Remote Trigger)"},
+  {"id" : "e98317", "name": "Study of Electrically excitable cells (Remote trigger)"},
+  {"id" : "e98316", "name": "Bursting phenomenon in biology via RC models (Remote Trigger)"},
+  {"id" : "e98315", "name": "Micrometry (Remote Trigger)"},
+  {"id" : "e98314", "name": "Multicompartmental modelling of biophysical behaviour of neurons (Remote Trigger)"},
+  {"id" : "e98313", "name": "Understanding Photosynthesis as a Biologically Closed Process"},
  ]
 }

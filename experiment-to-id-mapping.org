@@ -1641,6 +1641,15 @@
   {"id" : "e98306", "name": "Quantification of Stained Liver Cells"},
   {"id" : "e98305", "name": "Quantification of Bacterial Colonies on an Agar Plate"},
   {"id" : "e98304", "name": "Quantification of Amino Acids Present in a Mixture"},
-  {"id" : "e98303", "name": "Quantification of Protein Present in a Sample"}
+  {"id" : "e98303", "name": "Quantification of Protein Present in a Sample"},
+  {"id" : "e98302", "name": "Determination of pH of Waste Water Sample"},
+  {"id" : "e98301", "name": "Biological Oxygen Demand"},
+  {"id" : "e98300", "name": "Chemical Oxygen Demand of Waste water"},
+  {"id" : "e98299", "name": "Nitrogen Cycle"},
+  {"id" : "e98298", "name": "A Brief Introduction to Species Interactions in Ecology"},
+  {"id" : "e98297", "name": "Bacterial Population Growth"},
+  {"id" : "e98296", "name": "Population Invasion - A Threat to Ecosystem"},
+  {"id" : "e98295", "name": "Study of Foraging of Organisms in the Ecosystem"},
+  {"id" : "e98294", "name": "Case Studies on Ecology"}
  ]
 }

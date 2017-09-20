@@ -1,0 +1,28 @@
+{
+    "experiment": {
+        "id":  "e98298",
+        "name": "A Brief Introduction to Species Interactions in Ecology",
+        "discipline_id": "biotech",
+        "institute_id": "amrita",
+        "developers": [],
+        "hosting_info": [
+            {
+                "hosting_status": "hosted",
+                "hosted_on": "institute",
+                "hosted_url": "http://vlab.amrita.edu/index.php?sub=3&brch=272"
+            }
+        ],
+        "integration_level": 4,
+        "overview": "This experiments deals with A Brief Introduction to Species Interactions in Ecology",
+        "assets": [],
+        "sections" : [
+            "Theory", 
+                    "Procedure", 
+                    "Self Evaluation", 
+                    "Simulator", 
+                    "Assignment",
+                    "Reference",
+                    "Feedback"
+        ]
+    }
+}

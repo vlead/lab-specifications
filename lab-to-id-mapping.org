@@ -177,9 +177,7 @@
 |  164 | ee34        | Virtual Interactive Lab                                                              |
 |  165 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
 |  166 | ee30        | Substation Automation Lab                                                            |
-|  167 | ece37       | Advanced Pulse and Switching Lab                                                     |
 |  168 | cse32       | Information System Analysis and Design virtual Lab                                   |
-|  169 | ece38       | Semiconductor Devices Laboratory                                                     |
 |  170 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
 |  171 | aero04      | Satellite Modelling and Simulation                                                   |
 |  172 | phy01       | Virtual Astrophysics Lab                                                             |
@@ -193,7 +191,7 @@
 |  180 | emt         | Electromagnetic Theory                                                               |
 |  181 | mddl        | Modern Digital Design Lab                                                            |
 |  182 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  183 | wp-iitk     | Wave and Phenomena (Oscillations)                                                    |
+|  183 | phy19       | Wave and Phenomena (Oscillations)                                                    |
 |  184 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
 |  185 | cse10       | Computer Organisation and Architecture Lab                                           |
 |  186 | VLS09       | Advanced Network Technologies Virtual Lab                                            |

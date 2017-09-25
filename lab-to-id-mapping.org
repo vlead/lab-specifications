@@ -151,37 +151,27 @@
 |  126 | biotech13   | Microbiology Virtual Lab II                                                          |
 |  127 | biotech03   | Molecular biology Virtual Lab I                                                      |
 |  128 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
-|  129 | biotech22   | Cell biology Virtual Lab I                                                           |
-|  130 | mbvii-au    | Cell biology Virtual Lab II                                                          |
+|  129 | cbi-au      | Cell biology Virtual Lab I                                                           |
+|  130 | cbii-au     | Cell biology Virtual Lab II                                                          |
 |  133 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
-|  134 | phy-sc23    | Virtual Advanced Mechanics Lab                                                       |
 |  135 | phy-sc24    | Laser Optics Virtual Lab                                                             |
 |  136 | VLS18       | Analog Signals, Network and Measurement Laboratory                                   |
 |  137 | emv-au      | Virtual Electricity and Magnetism Lab                                                |
 |  138 | htv-au      | Virtual Heat and Thermodynamics Lab                                                  |
 |  139 | phy-sc27    | Virtual Modern Physics Lab                                                           |
 |  140 | phy-sc28    | Virtual Harmonic Motion and Waves Lab                                                |
-|  141 | phy-sc29    | Virtual Physical Energy and Materials Science Lab                                    |
 |  142 | pcv-au      | Physical Chemistry Virtual Lab                                                       |
 |  143 | ocv-au      | Organic Chemistry virtual Lab                                                        |
 |  144 | icv-au      | Inorganic Chemistry                                                                  |
-|  145 | civil19     | Advanced Geotechnical Lab                                                            |
-|  146 | mech37      | Acoustics Virtual Lab                                                                |
-|  147 | mech39      | Mechatronics Lab                                                                     |
 |  148 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory            |
 |  149 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
 |  150 | aero03      | Aerospace Virtual laboratory                                                         |
 |  151 | phy-sc30    | Optical Device Characterizations                                                     |
 |  152 | VLS01       | Kinematics and Dynamics of Mechanisms                                                |
 |  153 | phy-sc31    | Low Temp Electrical Transport and Property Measurements                              |
-|  154 | mech43      | Mechanical Sciences - Liquid Crystal                                                 |
 |  155 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
-|  156 | chem-engg03 | Binary Distillation                                                                  |
-|  157 | ece34       | Advanced Communication                                                               |
 |  158 | ml-iitb     | Control Systems/Magnetic Levitation System                                           |
-|  159 | mech46      | Mechanical Engineering Lab                                                           |
-|  160 | ece35       | Microelectronics Lab                                                                 |
-|  161 | mech47      | Model Based Fault Detection Lab                                                      |
+|  161 | VLS17       | Model Based Fault Detection Lab                                                      |
 |  162 | VLS03       | Virtual Pulse, Switching and Analogue Circuits                                       |
 |  163 | biotech26   | Biomedical Instrumentation Lab                                                       |
 |  164 | ee34        | Virtual Interactive Lab                                                              |

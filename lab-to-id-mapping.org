@@ -26,7 +26,6 @@
 |------+-------------+--------------------------------------------------------------------------------------|
 | S.no | lab_id      | Name                                                                                 |
 |------+-------------+--------------------------------------------------------------------------------------|
-|    1 | ae01        | Aerospace Structures Lab                                                             |
 |    2 | bio15       | Bio-reactor Modeling and Simulation Lab                                              |
 |    3 | bio16       | Biomedical and Signal Processing Laboratory                                          |
 |    4 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                  |

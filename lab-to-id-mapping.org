@@ -171,61 +171,58 @@
 |  142 | pcv-au      | Physical Chemistry Virtual Lab                                                       |
 |  143 | ocv-au      | Organic Chemistry virtual Lab                                                        |
 |  144 | icv-au      | Inorganic Chemistry                                                                  |
-|  145 | cse31       | Virtual Wireless and Security                                                        |
-|  146 | VLS13       | Real Time Embedded Systems Laboratory                                                |
-|  147 | civil19     | Advanced Geotechnical Lab                                                            |
-|  148 | mech37      | Acoustics Virtual Lab                                                                |
-|  149 | mech38      | General Purpose Production Shop Simulation Lab                                       |
-|  150 | mech39      | Mechatronics Lab                                                                     |
-|  151 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory            |
-|  152 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
-|  153 | aero03      | Aerospace Virtual laboratory                                                         |
-|  154 | phy-sc30    | Optical Device Characterizations                                                     |
-|  155 | VLS01       | Kinematics and Dynamics of Mechanisms                                                |
-|  156 | phy-sc31    | Low Temp Electrical Transport and Property Measurements                              |
-|  157 | mech43      | Mechanical Sciences - Liquid Crystal                                                 |
-|  158 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
-|  159 | chem-engg03 | Binary Distillation                                                                  |
-|  160 | ece34       | Advanced Communication                                                               |
-|  161 | chem-engg04 | Control Systems/Magnetic Levitation System                                           |
-|  162 | mech46      | Mechanical Engineering Lab                                                           |
-|  163 | ece35       | Microelectronics Lab                                                                 |
-|  164 | mech47      | Model Based Fault Detection Lab                                                      |
-|  165 | VLS03       | Virtual Pulse, Switching and Analogue Circuits                                       |
-|  166 | biotech26   | Biomedical Instrumentation Lab                                                       |
-|  167 | ee34        | Virtual Interactive Lab                                                              |
-|  168 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
-|  169 | ee30        | Substation Automation Lab                                                            |
-|  170 | ece37       | Advanced Pulse and Switching Lab                                                     |
-|  171 | cse32       | Information System Analysis and Design virtual Lab                                   |
-|  172 | ece38       | Semiconductor Devices Laboratory                                                     |
-|  173 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
-|  174 | aero04      | Satellite Modelling and Simulation                                                   |
-|  175 | phy01       | Virtual Astrophysics Lab                                                             |
-|  176 | phy12       | Virtual Microwave Laboratory                                                         |
-|  177 | phy14       | Physical Sciences                                                                    |
-|  178 | phy19       | Virtual Laboratory on Oscillations                                                   |
-|  179 | ece40       | Electronics Devices and Circuits                                                     |
-|  180 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
-|  181 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  182 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
-|  183 | emt         | Electromagnetic Theory                                                               |
-|  184 | mddl        | Modern Digital Design Lab                                                            |
-|  185 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  186 | wp-iitk     | Wave and Phenomena (Oscillations)                                                    |
-|  187 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
-|  188 | cse10       | Computer Organisation and Architecture Lab                                           |
-|  189 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
-|  190 | VLS10       | Software Engineering Lab                                                             |
-|  191 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
-|  192 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
-|  193 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
-|  194 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  195 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  196 | rtv04       | Solid State Devices Laboratory                                                       |
-|  197 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
-|  198 | fmc-nitk    | Fluid Machinery Lab                                                                  |
-|  199 | civil20     | Fluid Mechanics lab                                                                  |
+|  145 | civil19     | Advanced Geotechnical Lab                                                            |
+|  146 | mech37      | Acoustics Virtual Lab                                                                |
+|  147 | mech39      | Mechatronics Lab                                                                     |
+|  148 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory            |
+|  149 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
+|  150 | aero03      | Aerospace Virtual laboratory                                                         |
+|  151 | phy-sc30    | Optical Device Characterizations                                                     |
+|  152 | VLS01       | Kinematics and Dynamics of Mechanisms                                                |
+|  153 | phy-sc31    | Low Temp Electrical Transport and Property Measurements                              |
+|  154 | mech43      | Mechanical Sciences - Liquid Crystal                                                 |
+|  155 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
+|  156 | chem-engg03 | Binary Distillation                                                                  |
+|  157 | ece34       | Advanced Communication                                                               |
+|  158 | chem-engg04 | Control Systems/Magnetic Levitation System                                           |
+|  159 | mech46      | Mechanical Engineering Lab                                                           |
+|  160 | ece35       | Microelectronics Lab                                                                 |
+|  161 | mech47      | Model Based Fault Detection Lab                                                      |
+|  162 | VLS03       | Virtual Pulse, Switching and Analogue Circuits                                       |
+|  163 | biotech26   | Biomedical Instrumentation Lab                                                       |
+|  164 | ee34        | Virtual Interactive Lab                                                              |
+|  165 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
+|  166 | ee30        | Substation Automation Lab                                                            |
+|  167 | ece37       | Advanced Pulse and Switching Lab                                                     |
+|  168 | cse32       | Information System Analysis and Design virtual Lab                                   |
+|  169 | ece38       | Semiconductor Devices Laboratory                                                     |
+|  170 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
+|  171 | aero04      | Satellite Modelling and Simulation                                                   |
+|  172 | phy01       | Virtual Astrophysics Lab                                                             |
+|  173 | phy12       | Virtual Microwave Laboratory                                                         |
+|  174 | phy14       | Physical Sciences                                                                    |
+|  175 | phy19       | Virtual Laboratory on Oscillations                                                   |
+|  176 | ece40       | Electronics Devices and Circuits                                                     |
+|  177 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
+|  178 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
+|  179 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
+|  180 | emt         | Electromagnetic Theory                                                               |
+|  181 | mddl        | Modern Digital Design Lab                                                            |
+|  182 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
+|  183 | wp-iitk     | Wave and Phenomena (Oscillations)                                                    |
+|  184 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
+|  185 | cse10       | Computer Organisation and Architecture Lab                                           |
+|  186 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
+|  187 | VLS10       | Software Engineering Lab                                                             |
+|  188 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
+|  189 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
+|  190 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
+|  191 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
+|  192 | rtv03       | Structural Characterization of Materials Laboratory                                  |
+|  193 | rtv04       | Solid State Devices Laboratory                                                       |
+|  194 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
+|  195 | fmc-nitk    | Fluid Machinery Lab                                                                  |
+|  196 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -210,7 +210,7 @@
 |  182 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
 |  183 | wp-iitk     | Wave and Phenomena (Oscillations)                                                    |
 |  184 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
-|  185 | cse10       | Computer Organisation and Architecture Lab                                           |
+|  185 | VLS12       | Computer Organisation and Architecture Lab                                           |
 |  186 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
 |  187 | VLS10       | Software Engineering Lab                                                             |
 |  188 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |

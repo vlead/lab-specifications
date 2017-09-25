@@ -54,109 +54,108 @@
 |   26 | cse05       | Principles of Programming Languages                                                  |
 |   27 | cse06       | Data Mining                                                                          |
 |   28 | cse07       | Databases                                                                            |
-|   29 | cse08       | Software Engineering                                                                 |
-|   30 | cse09       | Linux Lab                                                                            |
-|   31 | cse11       | Computer Organization                                                                |
-|   32 | cse12       | FPGA and Embedded System Lab                                                         |
-|   33 | cse13       | Advanced VLSI                                                                        |
-|   34 | cse14       | VLSI                                                                                 |
-|   35 | cse15       | Digital Logic Design                                                                 |
-|   36 | cse16       | Speech Signal Processing (IIIT-H)                                                    |
-|   37 | cse17       | Mobile Robotics                                                                      |
-|   38 | cse18       | Computer Graphics                                                                    |
-|   39 | cse19       | Image Processing                                                                     |
-|   40 | cse20       | Pattern Recognition                                                                  |
-|   41 | cse21       | Optical Remote Sensing                                                               |
-|   42 | cse22       | Artificial Neural Networks                                                           |
-|   43 | cse23       | Computational Linguistics                                                            |
-|   44 | cse24       | Natural Language Processing                                                          |
-|   45 | cse29       | Cryptography                                                                         |
-|   46 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
-|   47 | eee03       | Speech Signal Processing (IIT-G)                                                     |
-|   48 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
-|   49 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
-|   50 | vlsi-iitg   | Digital VLSI Design Virtual Lab                                                      |
-|   51 | VLS06       | Digital Signal Processing Lab                                                        |
-|   52 | VLS07       | Digital Electronics Circuit Lab                                                      |
-|   53 | ece08       | Engineering Electromagnetic Lab                                                      |
-|   54 | ece10       | Signals and Systems Laboratory                                                       |
-|   55 | ece11       | Systems, Communication and Control Laboratory                                        |
-|   56 | ece18       | RF Microwave Characterization Lab                                                    |
-|   57 | ece19       | Hybrid Electronics                                                                   |
-|   58 | ece21       | Virtual Queuing Networks Modelling                                                   |
-|   59 | ece22       | Virtual Microwave and Antenna Lab                                                    |
-|   60 | VLS07       | Digital Electronics                                                                  |
-|   61 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
-|   62 | ece28       | FPGA and Digital Design                                                              |
-|   63 | eee02       | Electrical Machines Laboratory                                                       |
-|   64 | eil-iitg    | Electronic Instrumentation                                                           |
-|   65 | eee05       | Sensors Modeling and Simulation                                                      |
-|   66 | eee06       | Virtual Power Laboratory                                                             |
-|   67 | eee07       | Virtual Power Electronics and Electric Drives Lab                                    |
-|   68 | eee08       | Industrial Electric Drives and Application of PLC                                    |
-|   69 | eee09       | Industrial Automation Laboratory                                                     |
-|   70 | eee10       | Electrical Machines                                                                  |
-|   71 | eee12       | PLC                                                                                  |
-|   72 | eee23       | Biomedical Signal and Image Processing                                               |
-|   73 | eee24       | Machine Lab                                                                          |
-|   74 | eerc01      | Basic Engineering Mechanics and Strength of Materials                                |
-|   75 | eerc02      | Soil Mechanics                                                                       |
-|   76 | eerc03      | Hydraulics and Fluid Mechanics                                                       |
-|   77 | eerc04      | Basic Structural Analysis                                                            |
-|   78 | eerc05      | Geotechnical Engineering Lab                                                         |
-|   79 | eerc06      | Structural Dynamics                                                                  |
-|   80 | hci-iitg    | Creative Design, Prototyping and Experiential Simulation Lab                         |
-|   81 | hss02       | Virtual English and Communication Lab                                                |
-|   82 | hss03       | Virtual Anthropology Lab                                                             |
-|   83 | mfts-iitg   | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
-|   84 | mech04      | Vibration and Acoustics Lab                                                          |
-|   85 | mech05      | Mechanics of Machine                                                                 |
-|   86 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |
-|   87 | mech17      | Micromachining Laboratory                                                            |
-|   88 | mech18      | Fab Laboratory                                                                       |
-|   89 | mech21      | Machine Dynamics and Mechanical Vibrations                                           |
-|   90 | VLS04       | Robotics Simulation Lab                                                              |
-|   91 | VLS19       | Virtual Lab for Multiphase Flow                                                      |
-|   92 | VLS17       | Model Based Fault Detection Lab                                                      |
-|   93 | VLS16       | Mechanical Systems and Signal Processing                                             |
-|   94 | VLS14       | Chemical Process Dynamics                                                            |
-|   95 | ee26        | Virtual High Voltage Lab                                                             |
-|   96 | MVL02       | Basic Electronics Virtual Laboratory                                                 |
-|   97 | MVL01       | Microelectronics and VLSI Engineering                                                |
-|   98 | MVL03       | Mechanisms and Robotics Lab                                                          |
-|   99 | rte-iitg    | Remote Triggered Electro Mechanical Conversion                                       |
-|  100 | mv-iitg     | Virtual Lab for Mechanical Vibrations                                                |
-|  102 | biotech25   | Virtual Proteomics Laboratory                                                        |
-|  103 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |
-|  104 | ee32-iitb   | Single Board Heater System                                                           |
-|  105 | ee33        | Power Systems Lab                                                                    |
-|  106 | biotech08   | Bioinformatics Virtual Lab I                                                         |
-|  107 | ov-au       | Virtual Optics Lab                                                                   |
-|  108 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
-|  109 | biotech09   | Bioinformatics Virtual Lab II                                                        |
-|  110 | biotech10   | Bioinformatics Virtual Lab III                                                       |
-|  111 | biotech07   | Systems Biology Virtual Lab                                                          |
-|  112 | biotech06   | Computer-Aided Drug Design Virtual Lab                                               |
-|  113 | biotech05   | Ecology Virtual Lab                                                                  |
-|  114 | VLS05       | Fading Channels and Mobile Communications                                            |
-|  115 | biotech04   | Biological Image processing Virtual Lab                                              |
-|  116 | biotech11   | Bio-inspired Robotics Virtual Lab (Remote Triggered)                                 |
-|  117 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                            |
-|  118 | biotech20   | Neurophysiology (pilot)                                                              |
-|  119 | biotech19   | Neuron Simulation Lab (pilot)                                                        |
-|  120 | biotech01   | Biochemistry Virtual Lab I                                                           |
-|  121 | biotech02   | Biochemistry Virtual Lab II                                                          |
-|  122 | biotech18   | Population Ecology Virtual Lab I                                                     |
-|  123 | biotech17   | Population Ecology Virtual Lab II                                                    |
-|  124 | biotech16   | Immunology Virtual Lab I                                                             |
-|  125 | VLS11       | Soft Computing Tools in Engineering                                                  |
-|  126 | biotech15   | Immunology Virtual Lab II                                                            |
-|  127 | biotech14   | Microbiology Virtual Lab I                                                           |
-|  128 | biotech13   | Microbiology Virtual Lab II                                                          |
-|  129 | biotech03   | Molecular biology Virtual Lab I                                                      |
-|  130 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
-|  131 | biotech22   | Cell biology Virtual Lab I                                                           |
-|  132 | mbvii-au    | Cell biology Virtual Lab II                                                          |
+|   29 | cse09       | Linux Lab                                                                            |
+|   30 | cse11       | Computer Organization                                                                |
+|   31 | cse12       | FPGA and Embedded System Lab                                                         |
+|   32 | cse13       | Advanced VLSI                                                                        |
+|   33 | cse14       | VLSI                                                                                 |
+|   34 | cse15       | Digital Logic Design                                                                 |
+|   35 | cse16       | Speech Signal Processing (IIIT-H)                                                    |
+|   36 | cse17       | Mobile Robotics                                                                      |
+|   37 | cse18       | Computer Graphics                                                                    |
+|   38 | cse19       | Image Processing                                                                     |
+|   39 | cse20       | Pattern Recognition                                                                  |
+|   40 | cse21       | Optical Remote Sensing                                                               |
+|   41 | cse22       | Artificial Neural Networks                                                           |
+|   42 | cse23       | Computational Linguistics                                                            |
+|   43 | cse24       | Natural Language Processing                                                          |
+|   44 | cse29       | Cryptography                                                                         |
+|   45 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
+|   46 | eee03       | Speech Signal Processing (IIT-G)                                                     |
+|   47 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
+|   48 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
+|   49 | vlsi-iitg   | Digital VLSI Design Virtual Lab                                                      |
+|   50 | VLS06       | Digital Signal Processing Lab                                                        |
+|   51 | VLS07       | Digital Electronics Circuit Lab                                                      |
+|   52 | ece08       | Engineering Electromagnetic Lab                                                      |
+|   53 | ece10       | Signals and Systems Laboratory                                                       |
+|   54 | ece11       | Systems, Communication and Control Laboratory                                        |
+|   55 | ece18       | RF Microwave Characterization Lab                                                    |
+|   56 | ece19       | Hybrid Electronics                                                                   |
+|   57 | ece21       | Virtual Queuing Networks Modelling                                                   |
+|   58 | ece22       | Virtual Microwave and Antenna Lab                                                    |
+|   59 | VLS07       | Digital Electronics                                                                  |
+|   60 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
+|   61 | ece28       | FPGA and Digital Design                                                              |
+|   62 | eee02       | Electrical Machines Laboratory                                                       |
+|   63 | eil-iitg    | Electronic Instrumentation                                                           |
+|   64 | eee05       | Sensors Modeling and Simulation                                                      |
+|   65 | eee06       | Virtual Power Laboratory                                                             |
+|   66 | eee07       | Virtual Power Electronics and Electric Drives Lab                                    |
+|   67 | eee08       | Industrial Electric Drives and Application of PLC                                    |
+|   68 | eee09       | Industrial Automation Laboratory                                                     |
+|   69 | eee10       | Electrical Machines                                                                  |
+|   70 | eee12       | PLC                                                                                  |
+|   71 | eee23       | Biomedical Signal and Image Processing                                               |
+|   72 | eee24       | Machine Lab                                                                          |
+|   73 | eerc01      | Basic Engineering Mechanics and Strength of Materials                                |
+|   74 | eerc02      | Soil Mechanics                                                                       |
+|   75 | eerc03      | Hydraulics and Fluid Mechanics                                                       |
+|   76 | eerc04      | Basic Structural Analysis                                                            |
+|   77 | eerc05      | Geotechnical Engineering Lab                                                         |
+|   78 | eerc06      | Structural Dynamics                                                                  |
+|   79 | hci-iitg    | Creative Design, Prototyping and Experiential Simulation Lab                         |
+|   80 | hss02       | Virtual English and Communication Lab                                                |
+|   81 | hss03       | Virtual Anthropology Lab                                                             |
+|   82 | mfts-iitg   | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
+|   83 | mech04      | Vibration and Acoustics Lab                                                          |
+|   84 | mech05      | Mechanics of Machine                                                                 |
+|   85 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |
+|   86 | mech17      | Micromachining Laboratory                                                            |
+|   87 | mech18      | Fab Laboratory                                                                       |
+|   88 | mech21      | Machine Dynamics and Mechanical Vibrations                                           |
+|   89 | VLS04       | Robotics Simulation Lab                                                              |
+|   90 | VLS19       | Virtual Lab for Multiphase Flow                                                      |
+|   91 | VLS17       | Model Based Fault Detection Lab                                                      |
+|   92 | VLS16       | Mechanical Systems and Signal Processing                                             |
+|   93 | VLS14       | Chemical Process Dynamics                                                            |
+|   94 | ee26        | Virtual High Voltage Lab                                                             |
+|   95 | MVL02       | Basic Electronics Virtual Laboratory                                                 |
+|   96 | MVL01       | Microelectronics and VLSI Engineering                                                |
+|   97 | MVL03       | Mechanisms and Robotics Lab                                                          |
+|   98 | rte-iitg    | Remote Triggered Electro Mechanical Conversion                                       |
+|   99 | mv-iitg     | Virtual Lab for Mechanical Vibrations                                                |
+|  100 | biotech25   | Virtual Proteomics Laboratory                                                        |
+|  101 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |
+|  102 | ee32-iitb   | Single Board Heater System                                                           |
+|  103 | ee33        | Power Systems Lab                                                                    |
+|  104 | biotech08   | Bioinformatics Virtual Lab I                                                         |
+|  105 | ov-au       | Virtual Optics Lab                                                                   |
+|  106 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
+|  107 | biotech09   | Bioinformatics Virtual Lab II                                                        |
+|  108 | biotech10   | Bioinformatics Virtual Lab III                                                       |
+|  109 | biotech07   | Systems Biology Virtual Lab                                                          |
+|  110 | biotech06   | Computer-Aided Drug Design Virtual Lab                                               |
+|  111 | biotech05   | Ecology Virtual Lab                                                                  |
+|  112 | VLS05       | Fading Channels and Mobile Communications                                            |
+|  113 | biotech04   | Biological Image processing Virtual Lab                                              |
+|  114 | biotech11   | Bio-inspired Robotics Virtual Lab (Remote Triggered)                                 |
+|  115 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                            |
+|  116 | biotech20   | Neurophysiology (pilot)                                                              |
+|  117 | biotech19   | Neuron Simulation Lab (pilot)                                                        |
+|  118 | biotech01   | Biochemistry Virtual Lab I                                                           |
+|  119 | biotech02   | Biochemistry Virtual Lab II                                                          |
+|  120 | biotech18   | Population Ecology Virtual Lab I                                                     |
+|  121 | biotech17   | Population Ecology Virtual Lab II                                                    |
+|  122 | biotech16   | Immunology Virtual Lab I                                                             |
+|  123 | VLS11       | Soft Computing Tools in Engineering                                                  |
+|  124 | biotech15   | Immunology Virtual Lab II                                                            |
+|  125 | biotech14   | Microbiology Virtual Lab I                                                           |
+|  126 | biotech13   | Microbiology Virtual Lab II                                                          |
+|  127 | biotech03   | Molecular biology Virtual Lab I                                                      |
+|  128 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
+|  129 | biotech22   | Cell biology Virtual Lab I                                                           |
+|  130 | mbvii-au    | Cell biology Virtual Lab II                                                          |
 |  133 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
 |  134 | phy-sc23    | Virtual Advanced Mechanics Lab                                                       |
 |  135 | phy-sc24    | Laser Optics Virtual Lab                                                             |

@@ -86,7 +86,6 @@
 |   58 | ece22       | Virtual Microwave and Antenna Lab                                                    |
 |   59 | VLS07       | Digital Electronics                                                                  |
 |   60 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
-|   61 | ece28       | FPGA and Digital Design                                                              |
 |   62 | eee02       | Electrical Machines Laboratory                                                       |
 |   63 | eil-iitg    | Electronic Instrumentation                                                           |
 |   64 | eee05       | Sensors Modeling and Simulation                                                      |

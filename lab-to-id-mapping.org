@@ -96,7 +96,6 @@
 |   69 | eee10       | Electrical Machines                                                                  |
 |   70 | eee12       | PLC                                                                                  |
 |   71 | eee23       | Biomedical Signal and Image Processing                                               |
-|   72 | eee24       | Machine Lab                                                                          |
 |   73 | eerc01      | Basic Engineering Mechanics and Strength of Materials                                |
 |   74 | eerc02      | Soil Mechanics                                                                       |
 |   75 | eerc03      | Hydraulics and Fluid Mechanics                                                       |
@@ -127,7 +126,6 @@
 |  100 | biotech25   | Virtual Proteomics Laboratory                                                        |
 |  101 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |
 |  102 | ee32-iitb   | Single Board Heater System                                                           |
-|  103 | ee33        | Power Systems Lab                                                                    |
 |  104 | biotech08   | Bioinformatics Virtual Lab I                                                         |
 |  105 | ov-au       | Virtual Optics Lab                                                                   |
 |  106 | phy-sc21    | Solid State Physics Virtual Lab                                                      |

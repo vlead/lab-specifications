@@ -26,37 +26,37 @@
 |------+-------------+--------------------------------------------------------------------------------------|
 | S.no | lab_id      | Name                                                                                 |
 |------+-------------+--------------------------------------------------------------------------------------|
-|    2 | bio15       | Bio-reactor Modeling and Simulation Lab                                              |
-|    3 | bio16       | Biomedical and Signal Processing Laboratory                                          |
-|    4 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                  |
-|    5 | ccnsb02     | Colloid and Surface Chemistry                                                        |
-|    6 | ccnsb03     | Molecular Absorption Spectroscopy                                                    |
-|    7 | ccnsb04     | Quantum Chemistry                                                                    |
-|    8 | ccnsb05     | Circular Dichroism Spectroscopy                                                      |
-|    9 | ccnsb06     | Physical Chemistry (IIIT-H)                                                          |
-|   10 | ccnsb07     | Molecular Interactions                                                               |
-|   11 | vmt-iitg    | Virtual Lab for Mass Transfer                                                        |
-|   12 | chem01      | Chemical Engineering                                                                 |
-|   13 | chem05      | Unit Operations, Reaction Engineering and Process Control                            |
-|   14 | chs12       | Virtual Chemistry Lab                                                                |
-|   15 | chs13       | Ultrafast Laser Spectroscopy                                                         |
-|   16 | ai-dei      | Analytical Lab                                                                       |
-|   17 | civil07     | Strength of Materials Lab                                                            |
-|   18 | tel-iitb    | Traffic Engineering                                                                  |
-|   19 | civil11     | Virtual Satellite Image Processing and Analysis                                      |
-|   20 | civil13     | Urban Transportation Systems Planning                                                |
-|   21 | civil15     | Surveying Lab                                                                        |
-|   22 | civil16     | Virtual Smart Structures and Dynamics Lab                                            |
-|   23 | cse01       | Data Structures                                                                      |
-|   24 | cse02       | Computer Programming                                                                 |
-|   25 | cse03       | Programming and Data Structure                                                       |
-|   26 | cse04       | Problem Solving                                                                      |
-|   27 | cse05       | Principles of Programming Languages                                                  |
-|   28 | cse06       | Data Mining                                                                          |
-|   29 | cse07       | Databases                                                                            |
-|   30 | cse08       | Software Engineering                                                                 |
-|   31 | cse09       | Linux Lab                                                                            |
-|   33 | cse11       | Computer Organization                                                                |
+|    1 | bio15       | Bio-reactor Modeling and Simulation Lab                                              |
+|    2 | bio16       | Biomedical and Signal Processing Laboratory                                          |
+|    3 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                  |
+|    4 | ccnsb02     | Colloid and Surface Chemistry                                                        |
+|    5 | ccnsb03     | Molecular Absorption Spectroscopy                                                    |
+|    6 | ccnsb04     | Quantum Chemistry                                                                    |
+|    7 | ccnsb05     | Circular Dichroism Spectroscopy                                                      |
+|    8 | ccnsb06     | Physical Chemistry (IIIT-H)                                                          |
+|    9 | ccnsb07     | Molecular Interactions                                                               |
+|   10 | vmt-iitg    | Virtual Lab for Mass Transfer                                                        |
+|   11 | chem01      | Chemical Engineering                                                                 |
+|   12 | chem05      | Unit Operations, Reaction Engineering and Process Control                            |
+|   13 | chs12       | Virtual Chemistry Lab                                                                |
+|   14 | chs13       | Ultrafast Laser Spectroscopy                                                         |
+|   15 | ai-dei      | Analytical Lab                                                                       |
+|   16 | civil07     | Strength of Materials Lab                                                            |
+|   17 | tel-iitb    | Traffic Engineering                                                                  |
+|   18 | civil11     | Virtual Satellite Image Processing and Analysis                                      |
+|   19 | civil13     | Urban Transportation Systems Planning                                                |
+|   20 | civil15     | Surveying Lab                                                                        |
+|   21 | civil16     | Virtual Smart Structures and Dynamics Lab                                            |
+|   22 | cse01       | Data Structures                                                                      |
+|   23 | cse02       | Computer Programming                                                                 |
+|   24 | cse03       | Programming and Data Structure                                                       |
+|   25 | cse04       | Problem Solving                                                                      |
+|   26 | cse05       | Principles of Programming Languages                                                  |
+|   27 | cse06       | Data Mining                                                                          |
+|   28 | cse07       | Databases                                                                            |
+|   29 | cse08       | Software Engineering                                                                 |
+|   30 | cse09       | Linux Lab                                                                            |
+|   31 | cse11       | Computer Organization                                                                |
 |   32 | cse12       | FPGA and Embedded System Lab                                                         |
 |   33 | cse13       | Advanced VLSI                                                                        |
 |   34 | cse14       | VLSI                                                                                 |

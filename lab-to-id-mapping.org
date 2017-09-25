@@ -184,7 +184,7 @@
 |  155 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
 |  156 | chem-engg03 | Binary Distillation                                                                  |
 |  157 | ece34       | Advanced Communication                                                               |
-|  158 | chem-engg04 | Control Systems/Magnetic Levitation System                                           |
+|  158 | ml-iitb     | Control Systems/Magnetic Levitation System                                           |
 |  159 | mech46      | Mechanical Engineering Lab                                                           |
 |  160 | ece35       | Microelectronics Lab                                                                 |
 |  161 | mech47      | Model Based Fault Detection Lab                                                      |

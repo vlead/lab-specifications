@@ -181,30 +181,29 @@
 |  153 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
 |  154 | aero04      | Satellite Modelling and Simulation                                                   |
 |  155 | phy01       | Virtual Astrophysics Lab                                                             |
-|  156 | phy12       | Virtual Microwave Laboratory                                                         |
-|  157 | phy14       | Physical Sciences                                                                    |
-|  158 | phy19       | Virtual Laboratory on Oscillations                                                   |
-|  159 | ece40       | Electronics Devices and Circuits                                                     |
-|  160 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
-|  161 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  162 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
-|  163 | emt         | Electromagnetic Theory                                                               |
-|  164 | mddl        | Modern Digital Design Lab                                                            |
-|  165 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  166 | phy19       | Wave and Phenomena (Oscillations)                                                    |
-|  167 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
-|  168 | cse10       | Computer Organisation and Architecture Lab                                           |
-|  169 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
-|  170 | VLS10       | Software Engineering Lab                                                             |
-|  171 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
-|  172 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
-|  173 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
-|  174 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  175 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  176 | rtv04       | Solid State Devices Laboratory                                                       |
-|  177 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
-|  178 | fmc-nitk    | Fluid Machinery Lab                                                                  |
-|  179 | civil20     | Fluid Mechanics lab                                                                  |
+|  156 | phy14       | Physical Sciences                                                                    |
+|  157 | phy19       | Virtual Laboratory on Oscillations                                                   |
+|  158 | ece40       | Electronics Devices and Circuits                                                     |
+|  159 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
+|  160 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
+|  161 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
+|  162 | emt         | Electromagnetic Theory                                                               |
+|  163 | mddl        | Modern Digital Design Lab                                                            |
+|  164 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
+|  165 | phy19       | Wave and Phenomena (Oscillations)                                                    |
+|  166 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
+|  167 | cse10       | Computer Organisation and Architecture Lab                                           |
+|  168 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
+|  169 | VLS10       | Software Engineering Lab                                                             |
+|  170 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
+|  171 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
+|  172 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
+|  173 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
+|  174 | rtv03       | Structural Characterization of Materials Laboratory                                  |
+|  175 | rtv04       | Solid State Devices Laboratory                                                       |
+|  176 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
+|  177 | fmc-nitk    | Fluid Machinery Lab                                                                  |
+|  178 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

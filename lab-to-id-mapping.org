@@ -177,33 +177,32 @@
 |  149 | ee34        | Virtual Interactive Lab                                                              |
 |  150 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
 |  151 | ee30        | Substation Automation Lab                                                            |
-|  152 | cse32       | Information System Analysis and Design virtual Lab                                   |
-|  153 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
-|  154 | aero04      | Satellite Modelling and Simulation                                                   |
-|  155 | phy01       | Virtual Astrophysics Lab                                                             |
-|  156 | phy14       | Physical Sciences                                                                    |
-|  157 | phy19       | Virtual Laboratory on Oscillations                                                   |
-|  158 | ece40       | Electronics Devices and Circuits                                                     |
-|  159 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
-|  160 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  161 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
-|  162 | emt         | Electromagnetic Theory                                                               |
-|  163 | mddl        | Modern Digital Design Lab                                                            |
-|  164 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  165 | phy19       | Wave and Phenomena (Oscillations)                                                    |
-|  166 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
-|  167 | cse10       | Computer Organisation and Architecture Lab                                           |
-|  168 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
-|  169 | VLS10       | Software Engineering Lab                                                             |
-|  170 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
-|  171 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
-|  172 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
-|  173 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  174 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  175 | rtv04       | Solid State Devices Laboratory                                                       |
-|  176 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
-|  177 | fmc-nitk    | Fluid Machinery Lab                                                                  |
-|  178 | civil20     | Fluid Mechanics lab                                                                  |
+|  152 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
+|  153 | aero04      | Satellite Modelling and Simulation                                                   |
+|  154 | phy01       | Virtual Astrophysics Lab                                                             |
+|  155 | phy14       | Physical Sciences                                                                    |
+|  156 | phy19       | Virtual Laboratory on Oscillations                                                   |
+|  157 | ece40       | Electronics Devices and Circuits                                                     |
+|  158 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
+|  150 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
+|  160 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
+|  161 | emt         | Electromagnetic Theory                                                               |
+|  162 | mddl        | Modern Digital Design Lab                                                            |
+|  163 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
+|  164 | phy19       | Wave and Phenomena (Oscillations)                                                    |
+|  165 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
+|  166 | cse10       | Computer Organisation and Architecture Lab                                           |
+|  167 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
+|  168 | VLS10       | Software Engineering Lab                                                             |
+|  169 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
+|  170 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
+|  171 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
+|  172 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
+|  173 | rtv03       | Structural Characterization of Materials Laboratory                                  |
+|  174 | rtv04       | Solid State Devices Laboratory                                                       |
+|  175 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
+|  176 | fmc-nitk    | Fluid Machinery Lab                                                                  |
+|  177 | civil20     | Fluid Mechanics lab                                                                  |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

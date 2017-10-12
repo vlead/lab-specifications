@@ -202,6 +202,7 @@
 |  174 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
 |  175 | fmc-nitk    | Fluid Machinery Lab                                                                  |
 |  176 | civil20     | Fluid Mechanics                                                                      |
+|  177 | VLS13       | Real Time Embedded Systems Laboratory
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -121,22 +121,22 @@
 |   93 | MVL02       | Basic Electronics Virtual Lab                                                        |
 |   94 | MVL01       | Microelectronics and VLSI Engineering Laboratory                                     |
 |   95 | MVL03       | Mechanisms and Robotics Lab                                                          |
-|   96 | rte-iitg    | Remote Triggered Electro Mechanical Conversion                                       |
-|   97 | mv-iitg     | Virtual Lab for Mechanical Vibrations                                                |
+|   96 | rte-iitg    | Remote Triggered Electro Mechanical Conversion Laboratory                            |
+|   97 | mv-iitg     | Mechanical Vibration                                                                 |
 |   98 | biotech25   | Virtual Proteomics Laboratory                                                        |
 |   99 | VLS02       | Technology CAD (TCAD) Laboratory                                                     |
-|  100 | ee32-iitb   | Single Board Heater System                                                           |
+|  100 | ee32-iitb   | Single Board Heater System Simulation Virtual Lab                                    |                    
 |  101 | biotech08   | Bioinformatics Virtual Lab I                                                         |
-|  102 | ov-au       | Virtual Optics Lab                                                                   |
+|  102 | ov-au       | Optics Virtual Lab                                                                   |
 |  103 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
 |  104 | biotech09   | Bioinformatics Virtual Lab II                                                        |
 |  105 | biotech10   | Bioinformatics Virtual Lab III                                                       |
 |  106 | biotech07   | Systems Biology Virtual Lab                                                          |
 |  107 | biotech06   | Computer-Aided Drug Design Virtual Lab                                               |
 |  108 | biotech05   | Ecology Virtual Lab                                                                  |
-|  109 | VLS05       | Fading Channels and Mobile Communications                                            |
-|  110 | biotech04   | Biological Image processing Virtual Lab                                              |
-|  111 | biotech11   | Bio-inspired Robotics Virtual Lab (Remote Triggered)                                 |
+|  109 | VLS05       | Fading Channels and Mobile Communication                                             |
+|  110 | biotech04   | Biological Image Processing Virtual Lab                                              |
+|  111 | biotech11   | Bio-Inspired Robotics Virtual Lab (Remote Triggered)                                 |
 |  112 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                            |
 |  113 | biotech20   | Neurophysiology (pilot)                                                              |
 |  114 | biotech19   | Neuron Simulation Lab (pilot)                                                        |
@@ -156,53 +156,52 @@
 |  128 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
 |  129 | phy-sc24    | Laser Optics Virtual Lab                                                             |
 |  130 | VLS18       | Analog Signals, Network and Measurement Laboratory                                   |
-|  131 | emv-au      | Virtual Electricity and Magnetism Lab                                                |
-|  132 | htv-au      | Virtual Heat and Thermodynamics Lab                                                  |
-|  133 | phy-sc27    | Virtual Modern Physics Lab                                                           |
-|  134 | phy-sc28    | Virtual Harmonic Motion and Waves Lab                                                |
+|  131 | emv-au      | Electricity and Magnetism Virtual Lab                                                |
+|  132 | htv-au      | Heat and Thermodynamics Virtual Lab                                                  |
+|  133 | phy-sc27    | Modern Physics Virtual Lab                                                           |
+|  134 | phy-sc28    | Harmonic Motion and Waves Virtual Lab                                                |
 |  135 | pcv-au      | Physical Chemistry Virtual Lab                                                       |
-|  136 | ocv-au      | Organic Chemistry virtual Lab                                                        |
-|  137 | icv-au      | Inorganic Chemistry                                                                  |
+|  136 | ocv-au      | Organic Chemistry Virtual Lab                                                        |
+|  137 | icv-au      | Inorganic Chemistry Virtual Lab                                                      |
 |  138 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory            |
 |  139 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
-|  140 | aero03      | Aerospace Virtual laboratory                                                         |
+|  140 | aero03      | Aerospace Virtual Lab                                                                |
 |  141 | phy-sc30    | Optical Device Characterizations                                                     |
 |  142 | VLS01       | Kinematics and Dynamics of Mechanisms                                                |
-|  143 | phy-sc31    | Low Temp Electrical Transport and Property Measurements                              |
+|  143 | phy-sc31    | Low Temperature Electrical Transport and Property Measurements                       |
 |  144 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
-|  145 | ml-iitb     | Control Systems/Magnetic Levitation System                                           |
+|  145 | ml-iitb     | Magnetic Levitation Lab                                                              |
 |  146 | VLS17       | Model Based Fault Detection Lab                                                      |
-|  147 | VLS03       | Virtual Pulse, Switching and Analogue Circuits                                       |
+|  147 | VLS03       | Virtual Pulse, Switching and Analogue Circuits Lab                                   |
 |  148 | biotech26   | Biomedical Instrumentation Lab                                                       |
 |  149 | ee34        | Virtual Interactive Lab                                                              |
 |  150 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
-|  151 | ee30        | Substation Automation Lab                                                            |
+|  151 | ee30        | Substation Automation                                                                |
 |  152 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
 |  153 | aero04      | Satellite Modelling and Simulation                                                   |
 |  154 | phy01       | Virtual Astrophysics Lab                                                             |
 |  155 | phy14       | Physical Sciences                                                                    |
-|  156 | phy19       | Virtual Laboratory on Oscillations                                                   |
-|  157 | ece40       | Electronics Devices and Circuits                                                     |
-|  158 | ec-au       | Virtual electric Circuits Lab (Pilot)                                                |
-|  150 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
-|  160 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
-|  161 | emt         | Electromagnetic Theory                                                               |
-|  162 | mddl        | Modern Digital Design Lab                                                            |
-|  163 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  164 | phy19       | Wave and Phenomena (Oscillations)                                                    |
-|  165 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
-|  166 | cse10       | Computer Organisation and Architecture Lab                                           |
-|  167 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
-|  168 | VLS10       | Software Engineering Lab                                                             |
-|  169 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
-|  170 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
-|  171 | rtv01       | Computer Integrated Manufacturing Laboratory                                         |
-|  172 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  173 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  174 | rtv04       | Solid State Devices Laboratory                                                       |
-|  175 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
-|  176 | fmc-nitk    | Fluid Machinery Lab                                                                  |
-|  177 | civil20     | Fluid Mechanics lab                                                                  |
+|  156 | ece40       | Electronic Devices and Circuits                                                      |
+|  157 | ec-au       | Virtual Electric Circuits Lab (Pilot)                                                |
+|  158 | wsn-au      | Wireless Sensor Network Remote Triggered Lab                                         |
+|  159 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                            |
+|  160 | emt         | Electromagnetic Theory                                                               |
+|  161 | mddl        | Modern Digital Design Lab                                                            |
+|  162 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
+|  163 | phy19       | Wave and Phenomena (Oscillations)                                                    |
+|  164 | VLS20       | Virtual Labs on Mine Ventilation                                                     |
+|  165 | cse10       | Computer Organisation and Architecture                                               |
+|  166 | VLS09       | Advanced Network Technologies Virtual Lab                                            |
+|  167 | VLS10       | Software Engineering Lab                                                             |
+|  168 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                       |
+|  169 | VLS21       | Virtual Laboratory for Simulation and Gaming                                         |
+|  170 | rtv01       | Computer Integrated Manufacturing System Laboratory                                  |
+|  171 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
+|  172 | rtv03       | Structural Characterization of Materials Laboratory                                  |
+|  173 | rtv04       | Solid State Devices Laboratory                                                       |
+|  174 | rt-nitk     | Remote Triggered Vibration Lab                                                       |
+|  175 | fmc-nitk    | Fluid Machinery Lab                                                                  |
+|  176 | civil20     | Fluid Mechanics                                                                      |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

@@ -115,11 +115,11 @@
 |   87 | VLS04       | Robotics and Control Systems Simulation Laboratory                                   |                           
 |   88 | VLS19       | Virtual Lab on Multiphase Flow                                                       |
 |   89 | VLS17       | Model Based Fault Detection Lab                                                      |
-|   90 | VLS16       | Mechanical Systems and Signal Processing                                             |
-|   91 | VLS14       | Chemical Process Dynamics                                                            |
-|   92 | ee26        | Virtual High Voltage Lab                                                             |
-|   93 | MVL02       | Basic Electronics Virtual Laboratory                                                 |
-|   94 | MVL01       | Microelectronics and VLSI Engineering                                                |
+|   90 | VLS16       | Mechanical Systems and Signal Processing Lab                                         |
+|   91 | VLS14       | Chemical Process Dynamics Laboratory                                                 |
+|   92 | ee26        | Virtual High Voltage Laboratory                                                      |
+|   93 | MVL02       | Basic Electronics Virtual Lab                                                        |
+|   94 | MVL01       | Microelectronics and VLSI Engineering Laboratory                                     |
 |   95 | MVL03       | Mechanisms and Robotics Lab                                                          |
 |   96 | rte-iitg    | Remote Triggered Electro Mechanical Conversion                                       |
 |   97 | mv-iitg     | Virtual Lab for Mechanical Vibrations                                                |

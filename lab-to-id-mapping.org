@@ -110,7 +110,7 @@
 |   82 | mech05      | Mechanics of Machine                                                                 |
 |   83 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |
 |   84 | mech17      | Micromachining Laboratory                                                            |
-|   85 | mech18      | Fab Laboratory                                                                       |
+|   85 | mech18      | FAB Laboratory                                                                       |
 |   86 | mech21      | Machine Dynamics and Mechanical Vibrations                                           |
 |   87 | VLS04       | Robotics and Control Systems Simulation Laboratory                                   |                           
 |   88 | VLS19       | Virtual Lab on Multiphase Flow                                                       |

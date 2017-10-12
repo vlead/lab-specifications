@@ -33,7 +33,7 @@
 |    5 | ccnsb03     | Molecular Absorption Spectroscopy                                                    |
 |    6 | ccnsb04     | Quantum Chemistry                                                                    |
 |    7 | ccnsb05     | Circular Dichroism Spectroscopy                                                      |
-|    8 | ccnsb06     | Physical Chemistry (IIIT-H)                                                          |
+|    8 | ccnsb06     | Physical Chemistry                                                                   |
 |    9 | ccnsb07     | Molecular Interaction                                                                |
 |   10 | vmt-iitg    | Mass Transfer                                                                        |
 |   11 | chem01      | Chemical Engineering                                                                 |
@@ -43,10 +43,10 @@
 |   15 | ai-dei      | Analytical Lab                                                                       |
 |   16 | civil07     | Strength of Materials                                                                |
 |   17 | tel-iitb    | Traffic Engineering Laboratory                                                       |
-|   18 | civil11     | Virtual Satellite Image Processing and Analysis                                      |
-|   19 | civil13     | Urban Transportation Systems Planning                                                |
+|   18 | civil11     | Satellite Image Processing Lab                                                       |
+|   19 | civil13     | Urban Transportation Systems Planning Lab                                            |
 |   20 | civil15     | Surveying Lab                                                                        |
-|   21 | civil16     | Virtual Smart Structures and Dynamics Lab                                            |
+|   21 | civil16     | Virtual Smart Structures and Dynamics Laboratory                                     |
 |   22 | cse01       | Data Structures                                                                      |
 |   23 | cse02       | Computer Programming                                                                 |
 |   24 | cse03       | Programming and Data Structure                                                       |
@@ -57,10 +57,10 @@
 |   29 | cse09       | Linux Lab                                                                            |
 |   30 | cse11       | Computer Organization                                                                |
 |   31 | cse12       | FPGA and Embedded System Lab                                                         |
-|   32 | cse13       | Advanced VLSI                                                                        |
+|   32 | cse13       | Virtual Advanced VLSI Lab                                                            |
 |   33 | cse14       | VLSI                                                                                 |
 |   34 | cse15       | Digital Logic Design                                                                 |
-|   35 | cse16       | Speech Signal Processing (IIIT-H)                                                    |
+|   35 | cse16       | Speech Signal Processing                                                             |
 |   36 | cse17       | Mobile Robotics                                                                      |
 |   37 | cse18       | Computer Graphics                                                                    |
 |   38 | cse19       | Image Processing                                                                     |
@@ -71,19 +71,19 @@
 |   43 | cse24       | Natural Language Processing                                                          |
 |   44 | cse29       | Cryptography                                                                         |
 |   45 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
-|   46 | eee03       | Speech Signal Processing (IIT-G)                                                     |
+|   46 | eee03       | Speech Signal Processing Laboratory                                                  |
 |   47 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
-|   48 | ece04       | Electronic design using DSP, FPGA, CPLD and Micro Controllers                        |
+|   48 | ece04       | Electronic Design using DSP, FPGA, CPLD and Micro Controllers                        |
 |   49 | vlsi-iitg   | Digital VLSI Design Virtual Lab                                                      |
 |   50 | VLS06       | Digital Signal Processing Lab                                                        |
-|   51 | VLS07       | Digital Electronics Circuit Lab                                                      |
+|   51 | VLS07       | Digital Electronics Circuits Laboratory                                              |
 |   52 | ece08       | Engineering Electromagnetic Lab                                                      |
 |   53 | ece10       | Signals and Systems Laboratory                                                       |
 |   54 | ece11       | Systems, Communication and Control Laboratory                                        |
-|   55 | ece18       | RF Microwave Characterization Lab                                                    |
+|   55 | ece18       | RF and Microwave Characterization Lab                                                |
 |   56 | ece19       | Hybrid Electronics                                                                   |
 |   57 | ece21       | Virtual Queuing Networks Modelling                                                   |
-|   58 | ece22       | Virtual Microwave and Antenna Lab                                                    |
+|   58 | ece22       | Virtual Microwave and Antenna Laboratory                                             |
 |   59 | VLS07       | Digital Electronics                                                                  |
 |   60 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
 |   61 | eee02       | Electrical Machines Laboratory                                                       |

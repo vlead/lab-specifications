@@ -102,7 +102,7 @@
 |   89 | VLS05       | Fading Channels and Mobile Communication                                         |
 |   90 | VLS06       | Digital Signal Processing Labboratory                                            |
 |   91 | VLS07       | Digital Electronic Circuit Laboratory                                            |
-|   92 | VLS08       | Programming and Data Structure                                                   |
+|   92 | VLS21       | Virtual Laboratory on Gaming and Simulation                                      |
 |   93 | VLS09       | Advanced Network Technologies Virtual Lab                                        |
 |   94 | VLS10       | Software Engineering Lab                                                         |
 |   95 | VLS11       | Soft Computing Tools in Engineering                                              |
@@ -137,15 +137,14 @@
 |------+--------+-----------------------------------------------------------|
 | SNo. | Lab ID | Lab Name                                                  |
 |------+--------+-----------------------------------------------------------|
-|    1 | VLS21  | Virtual Laboratory on Gaming and Simulation               |
-|    2 | MVL01  | Microelectronics and VLSI Engineering Laboratory          |
-|    3 | MVL02  | Basic Electronics Lab                                     |
-|    4 | MVL03  | Mechanisms and Robotics Lab                               |
-|    5 | MVL04  | Virtual High Voltage Laboratory                           |
-|    6 | RTV01  | Computer Integrated Manufacturing Laboratory              |
-|    7 | RTV02  | Remote Triggered Virtual Laboratory on Automotive Systems |
-|    8 | RTV03  | Structural Characterization of Materials Laboratory       |
-|    9 | RTV04  | Solid State Devices Laboratory                            |
-|   10 | RTV05  | Plant Metabolic Pathways Laboratory                       |
+|    1 | MVL01  | Microelectronics and VLSI Engineering Laboratory          |
+|    2 | MVL02  | Basic Electronics Lab                                     |
+|    3 | MVL03  | Mechanisms and Robotics Lab                               |
+|    4 | MVL04  | Virtual High Voltage Laboratory                           |
+|    5 | RTV01  | Computer Integrated Manufacturing Laboratory              |
+|    6 | RTV02  | Remote Triggered Virtual Laboratory on Automotive Systems |
+|    7 | RTV03  | Structural Characterization of Materials Laboratory       |
+|    8 | RTV04  | Solid State Devices Laboratory                            |
+|    9 | RTV05  | Plant Metabolic Pathways Laboratory                       |
 |------+--------+-----------------------------------------------------------|
 

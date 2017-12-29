@@ -15,7 +15,7 @@
     "dis_name": "Chemical Engineering"
   },
   {
-    "dis_id": "chem",
+    "dis_id": "chem-sc",
     "id": 4,
     "dis_name": "Chemical Sciences"
   },

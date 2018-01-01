@@ -151,13 +151,13 @@
 |  123 | biotech13   | Microbiology Virtual Lab II                                                          |
 |  124 | biotech03   | Molecular biology Virtual Lab I                                                      |
 |  125 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
-|  126 | cbi-au      | Cell biology Virtual Lab I                                                           |
-|  127 | cbii-au     | Cell biology Virtual Lab II                                                          |
-|  128 | phy-sc22-au | Mechanics Virtual Lab (Pilot)                                                        |
+|  126 | biotech22   | Cell biology Virtual Lab I                                                           |
+|  127 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                  |                                     
+|  128 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                        |
 |  129 | phy-sc24    | Laser Optics Virtual Lab                                                             |
-|  130 | VLS18       | Analog Signals, Network and Measurement Laboratory                                   |
-|  131 | emv-au      | Electricity and Magnetism Virtual Lab                                                |
-|  132 | htv-au      | Heat and Thermodynamics Virtual Lab                                                  |
+|  130 | vls18       | Analog Signals, Network and Measurement Laboratory                                   |
+|  131 | phy-sc13    | Electricity and Magnetism Virtual Lab                                                |
+|  132 | phy-sc10    | Heat and Thermodynamics Virtual Lab                                                  |
 |  133 | phy-sc27    | Modern Physics Virtual Lab                                                           |
 |  134 | phy-sc28    | Harmonic Motion and Waves Virtual Lab                                                |
 |  135 | pcv-au      | Physical Chemistry Virtual Lab                                                       |

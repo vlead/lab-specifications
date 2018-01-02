@@ -85,7 +85,7 @@
 |   57 | ece21       | Virtual Queuing Networks Modelling                                                   |
 |   58 | ece22       | Virtual Microwave and Antenna Laboratory                                             |
 |   59 | vls07       | Digital Electronic Circuits Laboratory                                               |                
-|   60 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics                  |
+|   60 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics(no ID in phaseII)|
 |   61 | eee24       | Electrical Machines Lab                                                              |
 |   62 | eee02       | Electronic Instrumentation Lab                                                       |
 |   63 | eee05*      | Sensors Modeling and Simulation                                                      |

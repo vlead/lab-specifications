@@ -14,15 +14,15 @@
 |    9 | biotech17   | Population ecology Virtual Lab II                                                |
 |   10 | phy-sc10    | Heat & Thermodynamics Virtual Lab                                                |
 |   11 | phy-sc13    | Electricity & Magnetism Virtual Lab                                              |
-|   12 | biotech22   | Cell biology Virtual Lab II                                                      |
+|   12 | biotech22*  | Cell biology Virtual Lab II                                                      |
 |   13 | biotech14   | Microbiology Virtual Lab I                                                       |
-|   14 | mbvii-au    | Molecular Biology Virtual Lab II                                                 |
+|   14 | mbvii-au    | Molecular Biology Virtual Lab II (no ID on Phase II sheet)                       |                         
 |   15 | biotech13   | Microbiology Virtual Lab II                                                      |
-|   16 | aacv-au     | Advanced Analytical Chemistry Virtual Lab                                        |
-|   17 | icv-au      | Inorganic Chemistry Virtual Lab                                                  |
-|   18 | ocv-au      | Organic Chemistry Virtual Lab                                                    |
-|   19 | pcv-au      | Physical Chemistry Virtual Lab                                                   |
-|   20 | ov-au       | Optics Virtual Lab                                                               |
+|   16 | aacv-au     | Advanced Analytical Chemistry Virtual Lab (no ID on Phase II sheet)              |                       
+|   17 | icv-au      | Inorganic Chemistry Virtual Lab (no ID on Phase II sheet)                        |                         
+|   18 | ocv-au      | Organic Chemistry Virtual Lab (no ID on Phase II sheet)                          |                         
+|   19 | pcv-au      | Physical Chemistry Virtual Lab (no ID on Phase II sheet)                         |                         
+|   20 | ov-au       | Optics Virtual Lab (no ID on Phase II sheet)                                     |                         
 |------+-------------+----------------------------------------------------------------------------------|
 |   21 | cse12       | FPGA and Embedded System Lab                                                     |
 |   22 | bio16       | Biomedical and Signal Processing Laboratory                                      |

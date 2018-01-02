@@ -189,7 +189,7 @@
 |  161 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
 |  162 | phy19       | Wave and Phenomena (Oscillations)                                                    |
 |  163 | vls20       | Virtual Labs on Mine Ventilation                                                     |
-|  164 | cse10       | Computer Organisation and Architecture                                               |
+|  164 | vls12       | Computer Organisation and Architecture                                               |
 |  165 | vls09       | Advanced Network Technologies Virtual Lab                                            |
 |  166 | vls10       | Software Engineering Lab                                                             |
 |  167 | vls15       | Rotating Machinery Fault Simulation Laboratory                                       |

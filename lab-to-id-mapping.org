@@ -49,7 +49,7 @@
 |   21 | civil16     | Virtual Smart Structures and Dynamics Laboratory                                     |
 |   22 | cse01       | Data Structures                                                                      |
 |   23 | cse02       | Computer Programming                                                                 |
-|   24 | cse03       | Programming and Data Structure                                                       |
+|   24 | vls08       | Programming and Data Structure                                                       |
 |   25 | cse04       | Problem Solving                                                                      |
 |   26 | cse05       | Principles of Programming Languages                                                  |
 |   27 | cse06       | Data Mining                                                                          |

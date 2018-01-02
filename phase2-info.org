@@ -39,8 +39,9 @@
 |   32 | eee06       | Virtual Power Lab                                                                |
 |   33 | chs12       | Virtual Chemistry Lab                                                            |
 |   34 | phy12       | Virtual Microwave Lab                                                            |
-|   35 | ai-dei      | Analytical Lab                                                                   |
+|   35 | ai-dei      | Analytical Lab (no ID in Phase II sheet)                                         |                         
 |   36 | ece26       | Virtual Advanced Lab for Interactive design and Test in Electronics              |
+|      |             | (no ID in Phase II sheet)                                                        |
 |------+-------------+----------------------------------------------------------------------------------|
 |   37 | civil09     | Traffic Engineering Laboratory                                                   |
 |   38 | chem-engg04 | Magnetic Levitation Lab                                                          |
@@ -72,7 +73,7 @@
 |   61 | me01        | Mechanical Vibration                                                             |
 |   62 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                   |
 |   63 | ce01        | Mass Transfer                                                                    |
-|   64 | eee05       | Digital VLSI Design Virtual Lab                                                  |
+|   64 | eee05*      | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                       |                           
 |------+-------------+----------------------------------------------------------------------------------|
 |   65 | cse23       | Computational Linguistics                                                        |
 |   66 | cse15       | Digital Logic Design                                                             |
@@ -102,6 +103,7 @@
 |   89 | VLS05       | Fading Channels and Mobile Communication                                         |
 |   90 | VLS06       | Digital Signal Processing Labboratory                                            |
 |   91 | VLS07       | Digital Electronic Circuit Laboratory                                            |
+|      | VLS08       | 
 |   92 | VLS21       | Virtual Laboratory on Gaming and Simulation                                      |
 |   93 | VLS09       | Advanced Network Technologies Virtual Lab                                        |
 |   94 | VLS10       | Software Engineering Lab                                                         |

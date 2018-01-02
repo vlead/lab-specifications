@@ -93,30 +93,29 @@
 |   80 | cse20       | Pattern Recognition                                                              |
 |   81 | ccnsb01     | Molecular Fluorescence Spectroscopy                                              |
 |   82 | ccnsb06     | Physical Chemistry                                                               |
-|   83 | cse03       | Molecular Absorption Spectroscopy                                                |
+|   83 | ccnsb03     | Molecular Absorption Spectroscopy                                                |
 |   84 | cse04       | Problem Solving                                                                  |
 |------+-------------+----------------------------------------------------------------------------------|
-|   85 | VLS01       | Kinematics and Dynamics of Mechanisms                                            |
-|   86 | VLS02       | Technology CAD (TCAD) Laboratory                                                 |
-|   87 | VLS03       | Virtual Pulse, Switching and Analogue Circuits Lab                               |
-|   88 | VLS04       | Robotics and Control Systems Simulation Laboratory                               |
-|   89 | VLS05       | Fading Channels and Mobile Communication                                         |
-|   90 | VLS06       | Digital Signal Processing Labboratory                                            |
-|   91 | VLS07       | Digital Electronic Circuit Laboratory                                            |
-|      | VLS08       | 
-|   92 | VLS21       | Virtual Laboratory on Gaming and Simulation                                      |
-|   93 | VLS09       | Advanced Network Technologies Virtual Lab                                        |
-|   94 | VLS10       | Software Engineering Lab                                                         |
-|   95 | VLS11       | Soft Computing Tools in Engineering                                              |
-|   96 | VLS12       | Computer Organisation and Architecture                                           |
-|   97 | VLS13       | Real Time Embedded Systems Laboratory                                            |
-|   98 | VLS14       | Chemical Process Dynamics Laboratory                                             |
-|   99 | VLS15       | Rotating Machinery Fault Simulation Laboratory                                   |
-|  100 | VLS16       | Mechanical Systems and Signal Processing Lab                                     |
-|  101 | VLS17       | Model Based Fault Detection Lab                                                  |
-|  102 | VLS18       | Analog Signals,Network and Measurement Laboratory                                |
-|  103 | VLS19       | Virtual Lab on Multiphase Flow                                                   |
-|  104 | VLS20       | Virtual Labs on Mine Ventilation                                                 |
+|   85 | vls01       | Kinematics and Dynamics of Mechanisms                                            |
+|   86 | vls02       | Technology CAD (TCAD) Laboratory                                                 |
+|   87 | vls03       | Virtual Pulse, Switching and Analogue Circuits Lab                               |
+|   88 | vls04       | Robotics and Control Systems Simulation Laboratory                               |
+|   89 | vls05       | Fading Channels and Mobile Communication                                         |
+|   90 | vls06       | Digital Signal Processing Labboratory                                            |
+|   91 | vls07       | Digital Electronic Circuit Laboratory                                            |
+|   92 | vls21       | Virtual Laboratory on Gaming and Simulation                                      |
+|   93 | vls09       | Advanced Network Technologies Virtual Lab                                        |
+|   94 | vls10       | Software Engineering Lab                                                         |
+|   95 | vls11       | Soft Computing Tools in Engineering                                              |
+|   96 | vls12       | Computer Organisation and Architecture                                           |
+|   97 | vls13       | Real Time Embedded Systems Laboratory                                            |
+|   98 | vls14       | Chemical Process Dynamics Laboratory                                             |
+|   99 | vls15       | Rotating Machinery Fault Simulation Laboratory                                   |
+|  100 | vls16       | Mechanical Systems and Signal Processing Lab                                     |
+|  101 | vls17       | Model Based Fault Detection Lab                                                  |
+|  102 | vls18       | Analog Signals,Network and Measurement Laboratory                                |
+|  103 | vls19       | Virtual Lab on Multiphase Flow                                                   |
+|  104 | vls20       | Virtual Labs on Mine Ventilation                                                 |
 |------+-------------+----------------------------------------------------------------------------------|
 |  105 | biotech26   | Biomedical Instrumentation Lab                                                   |
 |  106 | eee23       | Medical Signal and Image Processing                                              |

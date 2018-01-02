@@ -127,7 +127,7 @@
 |   99 | vls02       | Technology CAD (TCAD) Laboratory                                                     |
 |  100 | ee32        | Single Board Heater System Simulation Virtual Lab                                    |                    
 |  101 | biotech08   | Bioinformatics Virtual Lab I                                                         |
-|  102 | ov-au       | Optics Virtual Lab (no ID)                                                           |
+|  102 | ov-au       | Optics Virtual Lab (no ID given in phase II sheet)                                   |
 |  103 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
 |  104 | biotech09   | Bioinformatics Virtual Lab II                                                        |
 |  105 | biotech10   | Bioinformatics Virtual Lab III                                                       |

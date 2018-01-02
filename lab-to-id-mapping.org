@@ -150,9 +150,9 @@
 |  122 | biotech14   | Microbiology Virtual Lab I                                                           |
 |  123 | biotech13   | Microbiology Virtual Lab II                                                          |
 |  124 | biotech03   | Molecular biology Virtual Lab I                                                      |
-|  125 | mbvii-au    | Molecular biology Virtual Lab II                                                     |
+|  125 | mbvii-au    | Molecular biology Virtual Lab II (no ID given in Phase II sheet)                     |
 |  126 | biotech22   | Cell biology Virtual Lab I                                                           |
-|  127 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                  |                                     
+|  127 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                  |            
 |  128 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                        |
 |  129 | phy-sc24    | Laser Optics Virtual Lab                                                             |
 |  130 | vls18       | Analog Signals, Network and Measurement Laboratory                                   |

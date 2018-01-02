@@ -203,6 +203,7 @@
 |  175 | fmc-nitk    | Fluid Machinery Lab (not listed in Phase II sheet)                                   |                             
 |  176 | civil20     | Fluid Mechanics                                                                      |
 |  177 | vls13       | Real Time Embedded Systems Laboratory                                                | 
+|  178 | phy-sc23    | Advanced Mechanics Virtual Lab                                                       | 
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

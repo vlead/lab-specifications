@@ -206,6 +206,7 @@
 |  178 | phy-sc23    | Advanced Mechanics Virtual Lab                                                       | 
 |  179 | mech26      | Metal Forming Virtual Simulation Lab                                                 |
 |  180 | phy12       | Virtual Microwave Lab                                                                |
+|  181 | eee01       | Virtual Electrical Machine                                                           |
 |------+-------------+--------------------------------------------------------------------------------------|
 #+tblfm: $1=@#-1
 

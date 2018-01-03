@@ -275,10 +275,10 @@
 |   56 | ee09       | Industrial Automation Laboratory                                                            |
 |   57 | ee10       | Electrical Machines                                                                         |
 |   58 | ee12       | PLC                                                                                         |
-|   59 | ee23       | Medical Signal and Image Processing                                                         |
-|   60 | ee24       | Electrical Machines Lab                                                                     |
-|   61 | ee25       | Remote Triggered Electro Mechanical Conversion Laboratory (not listed anywhere)             |
-|   62 | ee26       | Analog Signals, Network and Measurement Laboratory                                          |
+|   59 | ee13       | Medical Signal and Image Processing                                                         |
+|   60 | ee14       | Electrical Machines Lab                                                                     |
+|   61 | ee15       | Remote Triggered Electro Mechanical Conversion Laboratory (not listed anywhere)             |
+|   62 | ee16       | Analog Signals, Network and Measurement Laboratory                                          |
 |   63 | hmt01      | Virtual Interactive Lab                                                                     |
 |   64 | hmt02      | Virtual English and Communication Lab                                                       |
 |   65 | hmt03      | Virtual Anthropology Lab                                                                    |

@@ -23,191 +23,1934 @@
 *Note* - The legacy lab ids are not changed even if the given lab id
  does not match the discipline.
 
-|------+-------------+--------------------------------------------------------------------------------------|
-| S.no | lab_id      | Name                                                                                 |
-|------+-------------+--------------------------------------------------------------------------------------|
-|    1 | bio15       | Bio-reactor Modeling and Simulation Lab                                              |
-|    2 | bio16       | Biomedical and Signal Processing Laboratory                                          |
-|    3 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                  |
-|    4 | ccnsb02     | Colloid and Surface Chemistry                                                        |
-|    5 | ccnsb03     | Molecular Absorption Spectroscopy                                                    |
-|    6 | ccnsb04     | Quantum Chemistry                                                                    |
-|    7 | ccnsb05     | Circular Dichroism Spectroscopy                                                      |
-|    8 | ccnsb06     | Physical Chemistry                                                                   |
-|    9 | ccnsb07     | Molecular Interaction                                                                |
-|   10 | ce01        | Mass Transfer                                                                        |
-|   11 | chem01      | Chemical Engineering                                                                 |
-|   12 | chem05      | Unit Operations, Reaction Engineering and Process Control                            |
-|   13 | chs12       | Virtual Chemistry Lab                                                                |
-|   14 | chs13       | Ultrafast Laser Spectroscopy                                                         |
-|   15 | ai-dei      | Analytical Lab (no ID given in phase II sheet)                                       |
-|   16 | civil07     | Strength of Materials                                                                |
-|   17 | civil09     | Traffic Engineering Laboratory                                                       |
-|   18 | civil11     | Satellite Image Processing Lab                                                       |
-|   19 | civil13     | Urban Transportation Systems Planning Lab                                            |
-|   20 | civil15     | Surveying Lab                                                                        |
-|   21 | civil16     | Virtual Smart Structures and Dynamics Laboratory                                     |
-|   22 | cse01       | Data Structures                                                                      |
-|   23 | cse02       | Computer Programming                                                                 |
-|   24 | vls08       | Programming and Data Structure                                                       |
-|   25 | cse04       | Problem Solving                                                                      |
-|   26 | cse05       | Principles of Programming Languages                                                  |
-|   27 | cse06       | Data Mining                                                                          |
-|   28 | cse07       | Databases                                                                            |
-|   29 | cse09       | Linux Lab                                                                            |
-|   30 | cse11       | Computer Organization                                                                |
-|   31 | cse12       | FPGA and Embedded System Lab                                                         |
-|   32 | cse13       | Virtual Advanced VLSI Lab                                                            |
-|   33 | cse14       | VLSI                                                                                 |
-|   34 | cse15       | Digital Logic Design                                                                 |
-|   35 | cse16       | Speech Signal Processing                                                             |
-|   36 | cse17       | Mobile Robotics                                                                      |
-|   37 | cse18       | Computer Graphics                                                                    |
-|   38 | cse19       | Image Processing                                                                     |
-|   39 | cse20       | Pattern Recognition                                                                  |
-|   40 | cse21       | Optical Remote Sensing                                                               |
-|   41 | cse22       | Artificial Neural Networks                                                           |
-|   42 | cse23       | Computational Linguistics                                                            |
-|   43 | cse24       | Natural Language Processing                                                          |
-|   44 | cse29       | Cryptography                                                                         |
-|   45 | cse30       | Analog CMOS VLSI Circuit Design                                                      |
-|   46 | eee03       | Speech Signal Processing Laboratory                                                  |
-|   47 | ece03       | Transducer and Instrumentation Virtual Lab                                           |
-|   48 | ece04       | Electronic Design using DSP, FPGA, CPLD and Micro Controllers                        |
-|   49 | eee05*      | Digital VLSI Design Virtual Lab  (duplicate ID - vlsi-iitg)                          |                         
-|   50 | vls06       | Digital Signal Processing Lab                                                        |
-|   51 | ece08       | Engineering Electromagnetic Lab                                                      |
-|   52 | ece10       | Signals and Systems Laboratory                                                       |
-|   53 | ece11       | Systems, Communication and Control Laboratory                                        |
-|   54 | ece18       | RF and Microwave Characterization Lab                                                |
-|   55 | ece19       | Hybrid Electronics                                                                   |
-|   56 | ece21       | Virtual Queuing Networks Modelling                                                   |
-|   57 | ece22       | Virtual Microwave and Antenna Laboratory                                             |
-|   58 | vls07       | Digital Electronic Circuits Laboratory                                               |                
-|   59 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics(no ID in phaseII)|
-|   60 | eee24       | Electrical Machines Lab                                                              |
-|   61 | eee02       | Electronic Instrumentation Lab                                                       |
-|   62 | eee05*      | Sensors Modeling and Simulation                                                      |
-|   63 | eee06       | Virtual Power Lab                                                                    |
-|   64 | eee07       | Virtual Power Electronics and Electric Drives Lab                                    |
-|   65 | eee08       | Industrial Electric Drives                                                           |
-|   66 | eee09       | Industrial Automation Laboratory                                                     |
-|   67 | eee10       | Electrical Machines                                                                  |
-|   68 | eee12       | PLC                                                                                  |
-|   69 | eee23       | Medical Signal and Image Processing                                                  |
-|   70 | eerc01      | Basic Engineering Mechanics and Strength of Materials                                |
-|   71 | eerc02      | Soil Mechanics Lab                                                                   |
-|   72 | eerc03      | Hydraulics and Fluid Mechanics                                                       |
-|   73 | eerc04      | Basic Structural Analysis                                                            |
-|   74 | eerc05      | Geotechnical Engineering                                                             |
-|   75 | eerc06      | Structural Dynamics                                                                  |
-|   76 | de01        | Creative Design, Prototyping and Experiential Simulation Lab                         |
-|   77 | hss02       | Virtual English and Communication Lab                                                |
-|   78 | hss03       | Virtual Anthropology Lab                                                             |
-|   79 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                       |
-|   80 | mech04      | Vibration and Acoustics Lab                                                          |
-|   81 | mech05      | Mechanics of Machine                                                                 |
-|   82 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli     |
-|   83 | mech17      | Micromachining Laboratory                                                            |
-|   84 | mech18      | FAB Laboratory                                                                       |
-|   85 | mech21      | Machine Dynamics and Mechanical Vibrations                                           |
-|   86 | vls04       | Robotics and Control Systems Simulation Laboratory                                   |                           
-|   87 | vls19       | Virtual Lab on Multiphase Flow                                                       |
-|   88 | vls17       | Model Based Fault Detection Lab                                                      |
-|   89 | vls16       | Mechanical Systems and Signal Processing Lab                                         |
-|   90 | vls14       | Chemical Process Dynamics Laboratory                                                 |
-|   91 | ee26        | Virtual High Voltage Laboratory                                                      |
-|   92 | mvl02       | Basic Electronics Virtual Lab                                                        |
-|   93 | mvl01       | Microelectronics and VLSI Engineering Laboratory                                     |
-|   94 | mvl03       | Mechanisms and Robotics Lab                                                          |
-|   95 | rte-iitg    | Remote Triggered Electro Mechanical Conversion Laboratory (not listed anywhere)      |
-|   96 | me01        | Mechanical Vibration                                                                 |
-|   97 | biotech25   | Virtual Proteomics Laboratory                                                        |
-|   98 | vls02       | Technology CAD (TCAD) Laboratory                                                     |
-|   99 | ee32        | Single Board Heater System Simulation Virtual Lab                                    |                    
-|  100 | biotech08   | Bioinformatics Virtual Lab I                                                         |
-|  101 | ov-au       | Optics Virtual Lab (no ID given in phase II sheet)                                   |
-|  102 | phy-sc21    | Solid State Physics Virtual Lab                                                      |
-|  103 | biotech09   | Bioinformatics Virtual Lab II                                                        |
-|  104 | biotech10   | Bioinformatics Virtual Lab III                                                       |
-|  105 | biotech07   | Systems Biology Virtual Lab                                                          |
-|  106 | biotech06   | Computer-Aided Drug Design Virtual Lab                                               |
-|  107 | biotech05   | Ecology Virtual Lab                                                                  |
-|  108 | vls05       | Fading Channels and Mobile Communication                                             |
-|  109 | biotech04   | Biological Image Processing Virtual Lab                                              |
-|  110 | biotech11   | Bio-Inspired Robotics Virtual Lab (Remote Triggered)                                 |
-|  111 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                            |
-|  112 | biotech20   | Neurophysiology (pilot)                                                              |
-|  113 | biotech19   | Neuron Simulation Lab (pilot)                                                        |
-|  114 | biotech01   | Biochemistry Virtual Lab I                                                           |
-|  115 | biotech02   | Biochemistry Virtual Lab II                                                          |
-|  116 | biotech18   | Population Ecology Virtual Lab I                                                     |
-|  117 | biotech17   | Population Ecology Virtual Lab II                                                    |
-|  118 | biotech16   | Immunology Virtual Lab I                                                             |
-|  119 | vls11       | Soft Computing Tools in Engineering                                                  |
-|  120 | biotech15   | Immunology Virtual Lab II                                                            |
-|  121 | biotech14   | Microbiology Virtual Lab I                                                           |
-|  122 | biotech13   | Microbiology Virtual Lab II                                                          |
-|  123 | biotech03   | Molecular biology Virtual Lab I                                                      |
-|  124 | mbvii-au    | Molecular biology Virtual Lab II (no ID given in Phase II sheet)                     |
-|  125 | biotech22   | Cell biology Virtual Lab I                                                           |
-|  126 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                  |            
-|  127 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                        |
-|  128 | phy-sc24    | Laser Optics Virtual Lab                                                             |
-|  129 | vls18       | Analog Signals, Network and Measurement Laboratory                                   |
-|  130 | phy-sc13    | Electricity and Magnetism Virtual Lab                                                |
-|  131 | phy-sc10    | Heat and Thermodynamics Virtual Lab                                                  |
-|  132 | phy-sc27    | Modern Physics Virtual Lab                                                           |
-|  133 | phy-sc28    | Harmonic Motion and Waves Virtual Lab                                                |
-|  134 | pcv-au      | Physical Chemistry Virtual Lab (no ID in Phase II sheet)                             |                        
-|  135 | ocv-au      | Organic Chemistry Virtual Lab (no ID in Phase II sheet)                              |                      
-|  136 | icv-au      | Inorganic Chemistry Virtual Lab (no ID in Phase II sheet)                            |                        
-|  137 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory            |
-|  138 | mech48      | Virtual Combustion and Atomization Laboratory                                        |
-|  139 | aero03      | Aerospace Virtual Lab                                                                |
-|  140 | phy-sc30    | Optical Device Characterizations                                                     |
-|  141 | vls01       | Kinematics and Dynamics of Mechanisms                                                |
-|  142 | phy-sc31    | Low Temperature Electrical Transport and Property Measurements                       |
-|  143 | mat-sc01    | Thermal Processing and Microstructural Characterization                              |
-|  144 | chem-engg04 | Magnetic Levitation Lab                                                              |
-|  145 | vls17       | Model Based Fault Detection Lab                                                      |
-|  146 | vls03       | Virtual Pulse, Switching and Analogue Circuits Lab                                   |
-|  147 | biotech26   | Biomedical Instrumentation Lab                                                       |
-|  148 | ee34        | Virtual Interactive Lab                                                              |
-|  149 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                              |
-|  150 | ee30        | Substation Automation                                                                |
-|  151 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                          |
-|  152 | aero04      | Satellite Modelling and Simulation                                                   |
-|  153 | phy01       | Virtual Astrophysics Lab                                                             |
-|  154 | phy14       | Physical Sciences                                                                    |
-|  155 | ece40       | Electronic Devices and Circuits                                                      |
-|  156 | ec-au       | Virtual Electric Circuits Lab (Pilot) (not listed in the Phase II sheet)             |                                  
-|  157 | wsn-au      | Wireless Sensor Network Remote Triggered Lab (not listed in the Phase II sheet)      |                                  
-|  158 | aacv-au     | Advanced Analytical Chemistry Virtual Lab (no ID given in Phase II sheet)            |                               
-|  159 | emt         | Electromagnetic Theory                                                               |
-|  160 | mddl        | Modern Digital Design Lab                                                            |
-|  161 | ece29       | Remote Triggered Fiber Optics Communication Lab                                      |
-|  162 | phy19       | Wave and Phenomena (Oscillations)                                                    |
-|  163 | vls20       | Virtual Labs on Mine Ventilation                                                     |
-|  164 | vls12       | Computer Organisation and Architecture                                               |
-|  165 | vls09       | Advanced Network Technologies Virtual Lab                                            |
-|  166 | vls10       | Software Engineering Lab                                                             |
-|  167 | vls15       | Rotating Machinery Fault Simulation Laboratory                                       |
-|  168 | vls21       | Virtual Laboratory for Simulation and Gaming                                         |
-|  169 | rtv01       | Computer Integrated Manufacturing System Laboratory                                  |
-|  170 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                            |
-|  171 | rtv03       | Structural Characterization of Materials Laboratory                                  |
-|  172 | rtv04       | Solid State Devices Laboratory                                                       |
-|  173 | rt-nitk     | Remote Triggered Vibration Lab (not listed in Phase II sheet)                        |                              
-|  174 | fmc-nitk    | Fluid Machinery Lab (not listed in Phase II sheet)                                   |                             
-|  175 | civil20     | Fluid Mechanics                                                                      |
-|  176 | vls13       | Real Time Embedded Systems Laboratory                                                | 
-|  177 | phy-sc23    | Advanced Mechanics Virtual Lab                                                       | 
-|  178 | mech26      | Metal Forming Virtual Simulation Lab                                                 |
-|  179 | phy12       | Virtual Microwave Lab                                                                |
-|  180 | eee01       | Virtual Electrical Machine                                                           |
-|------+-------------+--------------------------------------------------------------------------------------|
+** Original lab IDs
+
+|------+-------------+---------------------------------------------------------------------------------------|
+| S.No | old ID      | Lab Name                                                                              |
+|------+-------------+---------------------------------------------------------------------------------------|
+|    1 | aacv-au     | Advanced Analytical Chemistry Virtual Lab (no ID given in Phase II sheet)             |
+|    2 | aero03      | Aerospace Virtual Lab                                                                 |
+|    3 | aero04      | Satellite Modelling and Simulation                                                    |
+|    4 | ai-dei      | Analytical Lab (no ID given in phase II sheet)                                        |
+|    5 | bio15       | Bio-reactor Modeling and Simulation Lab                                               |
+|    6 | bio16       | Biomedical and Signal Processing Laboratory                                           |
+|    7 | biotech01   | Biochemistry Virtual Lab I                                                            |
+|    8 | biotech02   | Biochemistry Virtual Lab II                                                           |
+|    9 | biotech03   | Molecular biology Virtual Lab I                                                       |
+|   10 | biotech04   | Biological Image Processing Virtual Lab                                               |
+|   11 | biotech05   | Ecology Virtual Lab                                                                   |
+|   12 | biotech06   | Computer-Aided Drug Design Virtual Lab                                                |
+|   13 | biotech07   | Systems Biology Virtual Lab                                                           |
+|   14 | biotech08   | Bioinformatics Virtual Lab I                                                          |
+|   15 | biotech09   | Bioinformatics Virtual Lab II                                                         |
+|   16 | biotech10   | Bioinformatics Virtual Lab III                                                        |
+|   17 | biotech11   | Bio-Inspired Robotics Virtual Lab (Remote Triggered)                                  |
+|   18 | biotech12   | Virtual Biophysics Lab (Remote Triggered)                                             |
+|   19 | biotech13   | Microbiology Virtual Lab II                                                           |
+|   20 | biotech14   | Microbiology Virtual Lab I                                                            |
+|   21 | biotech15   | Immunology Virtual Lab II                                                             |
+|   22 | biotech16   | Immunology Virtual Lab I                                                              |
+|   23 | biotech17   | Population Ecology Virtual Lab II                                                     |
+|   24 | biotech18   | Population Ecology Virtual Lab I                                                      |
+|   25 | biotech19   | Neuron Simulation Lab (pilot)                                                         |
+|   26 | biotech20   | Neurophysiology (pilot)                                                               |
+|   27 | biotech22   | Cell biology Virtual Lab I                                                            |
+|   28 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                   |
+|   29 | biotech25   | Virtual Proteomics Laboratory                                                         |
+|   30 | biotech26   | Biomedical Instrumentation Lab                                                        |
+|   31 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                   |
+|   32 | ccnsb02     | Colloid and Surface Chemistry                                                         |
+|   33 | ccnsb03     | Molecular Absorption Spectroscopy                                                     |
+|   34 | ccnsb04     | Quantum Chemistry                                                                     |
+|   35 | ccnsb05     | Circular Dichroism Spectroscopy                                                       |
+|   36 | ccnsb06     | Physical Chemistry                                                                    |
+|   37 | ccnsb07     | Molecular Interaction                                                                 |
+|   38 | ce01        | Mass Transfer                                                                         |
+|   39 | chem-engg04 | Magnetic Levitation Lab                                                               |
+|   40 | chem01      | Chemical Engineering                                                                  |
+|   41 | chem05      | Unit Operations, Reaction Engineering and Process Control                             |
+|   42 | chs12       | Virtual Chemistry Lab                                                                 |
+|   43 | chs13       | Ultrafast Laser Spectroscopy                                                          |
+|   44 | civil07     | Strength of Materials                                                                 |
+|   45 | civil09     | Traffic Engineering Laboratory                                                        |
+|   46 | civil11     | Satellite Image Processing Lab                                                        |
+|   47 | civil13     | Urban Transportation Systems Planning Lab                                             |
+|   48 | civil15     | Surveying Lab                                                                         |
+|   49 | civil16     | Virtual Smart Structures and Dynamics Laboratory                                      |
+|   50 | civil20     | Fluid Mechanics                                                                       |
+|   51 | cse01       | Data Structures                                                                       |
+|   52 | cse02       | Computer Programming                                                                  |
+|   53 | cse04       | Problem Solving                                                                       |
+|   54 | cse05       | Principles of Programming Languages                                                   |
+|   55 | cse06       | Data Mining                                                                           |
+|   56 | cse07       | Databases                                                                             |
+|   57 | cse09       | Linux Lab                                                                             |
+|   58 | cse11       | Computer Organization                                                                 |
+|   59 | cse12       | FPGA and Embedded System Lab                                                          |
+|   60 | cse13       | Virtual Advanced VLSI Lab                                                             |
+|   61 | cse14       | VLSI                                                                                  |
+|   62 | cse15       | Digital Logic Design                                                                  |
+|   63 | cse16       | Speech Signal Processing                                                              |
+|   64 | cse17       | Mobile Robotics                                                                       |
+|   65 | cse18       | Computer Graphics                                                                     |
+|   66 | cse19       | Image Processing                                                                      |
+|   67 | cse20       | Pattern Recognition                                                                   |
+|   68 | cse21       | Optical Remote Sensing                                                                |
+|   69 | cse22       | Artificial Neural Networks                                                            |
+|   70 | cse23       | Computational Linguistics                                                             |
+|   71 | cse24       | Natural Language Processing                                                           |
+|   72 | cse29       | Cryptography                                                                          |
+|   73 | cse30       | Analog CMOS VLSI Circuit Design                                                       |
+|   74 | de01        | Creative Design, Prototyping and Experiential Simulation Lab                          |
+|   75 | dsgn-engg04 | Ergonomics Lab for Assessing Physical Aspects of Design                               |
+|   76 | ec-au       | Virtual Electric Circuits Lab (Pilot) (not listed in the Phase II sheet)              |
+|   77 | ece03       | Transducer and Instrumentation Virtual Lab                                            |
+|   78 | ece04       | Electronic Design using DSP, FPGA, CPLD and Micro Controllers                         |
+|   79 | ece08       | Engineering Electromagnetic Lab                                                       |
+|   80 | ece10       | Signals and Systems Laboratory                                                        |
+|   81 | ece11       | Systems, Communication and Control Laboratory                                         |
+|   82 | ece18       | RF and Microwave Characterization Lab                                                 |
+|   83 | ece19       | Hybrid Electronics                                                                    |
+|   84 | ece21       | Virtual Queuing Networks Modelling                                                    |
+|   85 | ece22       | Virtual Microwave and Antenna Laboratory                                              |
+|   86 | ece26       | Virtual Advanced Lab for Interactive Design and Test in Electronics(no ID in phaseII) |
+|   87 | ece29       | Remote Triggered Fiber Optics Communication Lab                                       |
+|   88 | ece40       | Electronic Devices and Circuits                                                       |
+|   89 | ee26        | Virtual High Voltage Laboratory                                                       |
+|   90 | ee30        | Substation Automation                                                                 |
+|   91 | ee32        | Single Board Heater System Simulation Virtual Lab                                     |
+|   92 | ee34        | Virtual Interactive Lab                                                               |
+|   93 | eee01       | Virtual Electrical Machine                                                            |
+|   94 | eee02       | Electronic Instrumentation Lab                                                        |
+|   95 | eee03       | Speech Signal Processing Laboratory                                                   |
+|   96 | eee05*      | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                            |
+|   97 | eee05*      | Sensors Modeling and Simulation                                                       |
+|   98 | eee06       | Virtual Power Lab                                                                     |
+|   99 | eee07       | Virtual Power Electronics and Electric Drives Lab                                     |
+|  100 | eee08       | Industrial Electric Drives                                                            |
+|  101 | eee09       | Industrial Automation Laboratory                                                      |
+|  102 | eee10       | Electrical Machines                                                                   |
+|  103 | eee12       | PLC                                                                                   |
+|  104 | eee23       | Medical Signal and Image Processing                                                   |
+|  105 | eee24       | Electrical Machines Lab                                                               |
+|  106 | eerc01      | Basic Engineering Mechanics and Strength of Materials                                 |
+|  107 | eerc02      | Soil Mechanics Lab                                                                    |
+|  108 | eerc03      | Hydraulics and Fluid Mechanics                                                        |
+|  109 | eerc04      | Basic Structural Analysis                                                             |
+|  110 | eerc05      | Geotechnical Engineering                                                              |
+|  111 | eerc06      | Structural Dynamics                                                                   |
+|  112 | emt         | Electromagnetic Theory                                                                |
+|  113 | fmc-nitk    | Fluid Machinery Lab (not listed in Phase II sheet)                                    |
+|  114 | hss02       | Virtual English and Communication Lab                                                 |
+|  115 | hss03       | Virtual Anthropology Lab                                                              |
+|  116 | icv-au      | Inorganic Chemistry Virtual Lab (no ID in Phase II sheet)                             |
+|  117 | mat-sc01    | Thermal Processing and Microstructural Characterization                               |
+|  118 | mbvii-au    | Molecular biology Virtual Lab II (no ID given in Phase II sheet)                      |
+|  119 | mddl        | Modern Digital Design Lab                                                             |
+|  120 | me01        | Mechanical Vibration                                                                  |
+|  121 | me02        | Mechanical Laboratory Experience in Fluid and Thermal Sciences                        |
+|  122 | mech04      | Vibration and Acoustics Lab                                                           |
+|  123 | mech05      | Mechanics of Machine                                                                  |
+|  124 | mech08      | Material Response to Microstructural, Mechanical, Thermal and Biological Stimuli      |
+|  125 | mech17      | Micromachining Laboratory                                                             |
+|  126 | mech18      | FAB Laboratory                                                                        |
+|  127 | mech21      | Machine Dynamics and Mechanical Vibrations                                            |
+|  128 | mech26      | Metal Forming Virtual Simulation Lab                                                  |
+|  129 | mech40      | Nanocomposite, Fabrication, Biomaterials and Signal Processing Laboratory             |
+|  130 | mech48      | Virtual Combustion and Atomization Laboratory                                         |
+|  131 | mvl01       | Microelectronics and VLSI Engineering Laboratory                                      |
+|  132 | mvl02       | Basic Electronics Virtual Lab                                                         |
+|  133 | mvl03       | Mechanisms and Robotics Lab                                                           |
+|  134 | ocv-au      | Organic Chemistry Virtual Lab (no ID in Phase II sheet)                               |
+|  135 | ov-au       | Optics Virtual Lab (no ID given in phase II sheet)                                    |
+|  136 | pcv-au      | Physical Chemistry Virtual Lab (no ID in Phase II sheet)                              |
+|  137 | phy-sc10    | Heat and Thermodynamics Virtual Lab                                                   |
+|  138 | phy-sc13    | Electricity and Magnetism Virtual Lab                                                 |
+|  139 | phy-sc21    | Solid State Physics Virtual Lab                                                       |
+|  140 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                         |
+|  141 | phy-sc23    | Advanced Mechanics Virtual Lab                                                        |
+|  142 | phy-sc24    | Laser Optics Virtual Lab                                                              |
+|  143 | phy-sc27    | Modern Physics Virtual Lab                                                            |
+|  144 | phy-sc28    | Harmonic Motion and Waves Virtual Lab                                                 |
+|  145 | phy-sc30    | Optical Device Characterizations                                                      |
+|  146 | phy-sc31    | Low Temperature Electrical Transport and Property Measurements                        |
+|  147 | phy01       | Virtual Astrophysics Lab                                                              |
+|  148 | phy12       | Virtual Microwave Lab                                                                 |
+|  149 | phy14       | Physical Sciences                                                                     |
+|  150 | phy19       | Wave and Phenomena (Oscillations)                                                     |
+|  151 | rt-nitk     | Remote Triggered Vibration Lab (not listed in Phase II sheet)                         |
+|  152 | rte-iitg    | Remote Triggered Electro Mechanical Conversion Laboratory (not listed anywhere)       |
+|  153 | rtv01       | Computer Integrated Manufacturing System Laboratory                                   |
+|  154 | rtv02       | Remote Triggered Virtual Laboratory on Automotive Systems                             |
+|  155 | rtv03       | Structural Characterization of Materials Laboratory                                   |
+|  156 | rtv04       | Solid State Devices Laboratory                                                        |
+|  157 | rtv05       | Plant Metabolic Pathways Virtual Laboratory                                           |
+|  158 | vls01       | Kinematics and Dynamics of Mechanisms                                                 |
+|  159 | vls02       | Technology CAD (TCAD) Laboratory                                                      |
+|  160 | vls03       | Virtual Pulse, Switching and Analogue Circuits Lab                                    |
+|  161 | vls04       | Robotics and Control Systems Simulation Laboratory                                    |
+|  162 | vls05       | Fading Channels and Mobile Communication                                              |
+|  163 | vls06       | Digital Signal Processing Lab                                                         |
+|  164 | vls07       | Digital Electronic Circuits Laboratory                                                |
+|  165 | vls08       | Programming and Data Structure                                                        |
+|  166 | vls09       | Advanced Network Technologies Virtual Lab                                             |
+|  167 | vls10       | Software Engineering Lab                                                              |
+|  168 | vls11       | Soft Computing Tools in Engineering                                                   |
+|  169 | vls12       | Computer Organisation and Architecture                                                |
+|  170 | vls13       | Real Time Embedded Systems Laboratory                                                 |
+|  171 | vls14       | Chemical Process Dynamics Laboratory                                                  |
+|  172 | vls15       | Rotating Machinery Fault Simulation Laboratory                                        |
+|  173 | vls16       | Mechanical Systems and Signal Processing Lab                                          |
+|  174 | vls17       | Model Based Fault Detection Lab                                                       |
+|  175 | vls17       | Model Based Fault Detection Lab                                                       |
+|  176 | vls18       | Analog Signals, Network and Measurement Laboratory                                    |
+|  177 | vls19       | Virtual Lab on Multiphase Flow                                                        |
+|  178 | vls20       | Virtual Labs on Mine Ventilation                                                      |
+|  179 | vls21       | Virtual Laboratory for Simulation and Gaming                                          |
+|  180 | wsn-au      | Wireless Sensor Network Remote Triggered Lab (not listed in the Phase II sheet)       |
+|------+-------------+---------------------------------------------------------------------------------------|
+
 #+tblfm: $1=@#-1
 
 
+** Modified lab IDs
+|------+--------------+---------------------------------------------------------------------------------|
+| S.No | Modified IDs | Lab Name                                                                        |
+|------+--------------+---------------------------------------------------------------------------------|
+|    1 | biotech27    | Bio-reactor Modeling and Simulation Lab                                         |
+|    2 | biotech28    | Biomedical and Signal Processing Laboratory                                     |
+|    3 | biotech29    | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)             |
+|    4 | biotech30    | Molecular biology Virtual Lab II (no ID given in Phase II sheet)                |
+|    5 | biotech31    | Plant Metabolic Pathways Virtual Laboratory                                     |
+|    6 | chemengg04   | Magnetic Levitation Lab                                                         |
+|    7 | chemengg05   | Analytical Lab (no ID given in phase II sheet)                                  |
+|    8 | chemengg06   | Mass Transfer                                                                   |
+|    9 | chemengg07   | Chemical Engineering                                                            |
+|   10 | chemengg08   | Unit Operations, Reaction Engineering and Process Control                       |
+|   11 | chemengg09   | Virtual Chemistry Lab                                                           |
+|   12 | chemengg10   | Chemical Process Dynamics Laboratory                                            |
+|   13 | chemsc01     | Advanced Analytical Chemistry Virtual Lab (no ID given in Phase II sheet)       |
+|   14 | chemsc02     | Molecular Fluorescence Spectroscopy                                             |
+|   15 | chemsc03     | Colloid and Surface Chemistry                                                   |
+|   16 | chemsc04     | Molecular Absorption Spectroscopy                                               |
+|   17 | chemsc05     | Quantum Chemistry                                                               |
+|   18 | chemsc06     | Circular Dichroism Spectroscopy                                                 |
+|   19 | chemsc07     | Physical Chemistry                                                              |
+|   20 | chemsc08     | Molecular Interaction                                                           |
+|   21 | chemsc09     | Ultrafast Laser Spectroscopy                                                    |
+|   22 | chemsc09     | Inorganic Chemistry Virtual Lab (no ID in Phase II sheet)                       |
+|   23 | chemsc10     | Organic Chemistry Virtual Lab (no ID in Phase II sheet)                         |
+|   24 | chemsc11     | Physical Chemistry Virtual Lab (no ID in Phase II sheet)                        |
+|   25 | civil21      | Basic Engineering Mechanics and Strength of Materials                           |
+|   26 | civil22      | Soil Mechanics Lab                                                              |
+|   27 | civil23      | Hydraulics and Fluid Mechanics                                                  |
+|   28 | civil24      | Basic Structural Analysis                                                       |
+|   29 | civil25      | Geotechnical Engineering                                                        |
+|   30 | civil26      | Structural Dynamics                                                             |
+|   31 | civil27      | Fluid Machinery Lab (not listed in Phase II sheet)                              |
+|   32 | civil28      | Soft Computing Tools in Engineering                                             |
+|   33 | cse31        | Programming and Data Structure                                                  |
+|   34 | cse32        | Software Engineering Lab                                                        |
+|   35 | cse33        | Computer Organisation and Architecture                                          |
+|   36 | cse34        | Wireless Sensor Network Remote Triggered Lab (not listed in the Phase II sheet) |
+|   37 | design01     | Creative Design, Prototyping and Experiential Simulation Lab                    |
+|   38 | design02     | Ergonomics Lab for Assessing Physical Aspects of Design                         |
+|   39 | ece41        | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                      |
+|   40 | ece42        | Electromagnetic Theory                                                          |
+|   41 | ece42        | Modern Digital Design Lab                                                       |
+|   42 | ece43        | Microelectronics and VLSI Engineering Laboratory                                |
+|   43 | ece44        | Basic Electronics Virtual Lab                                                   |
+|   44 | ece51        | Mechanisms and Robotics Lab                                                     |
+|   45 | ece52        | Solid State Devices Laboratory                                                  |
+|   46 | ece53        | Technology CAD (TCAD) Laboratory                                                |
+|   47 | ece54        | Virtual Pulse, Switching and Analogue Circuits Lab                              |
+|   48 | ece55        | Fading Channels and Mobile Communication                                        |
+|   49 | ece56        | Digital Signal Processing Lab                                                   |
+|   50 | ece57        | Digital Electronic Circuits Laboratory                                          |
+|   51 | ece58        | Advanced Network Technologies Virtual Lab                                       |
+|   52 | ece58        | Real Time Embedded Systems Laboratory                                           |
+|   53 | ee05         | Sensors Modeling and Simulation                                                 |
+|   54 | ee06         | Virtual Power Lab                                                               |
+|   55 | ee07         | Virtual Power Electronics and Electric Drives Lab                               |
+|   56 | ee08         | Industrial Electric Drives                                                      |
+|   57 | ee09         | Industrial Automation Laboratory                                                |
+|   58 | ee10         | Electrical Machines                                                             |
+|   59 | ee12         | PLC                                                                             |
+|   60 | ee23         | Medical Signal and Image Processing                                             |
+|   61 | ee24         | Electrical Machines Lab                                                         |
+|   62 | ee25         | Remote Triggered Electro Mechanical Conversion Laboratory (not listed anywhere) |
+|   63 | ee26         | Analog Signals, Network and Measurement Laboratory                              |
+|   64 | hmt01        | Virtual Interactive Lab                                                         |
+|   65 | hmt02        | Virtual English and Communication Lab                                           |
+|   66 | hmt03        | Virtual Anthropology Lab                                                        |
+|   67 | isengg01     | Virtual Laboratory for Simulation and Gaming                                    |
+|   68 | mech49       | Mechanical Vibration                                                            |
+|   69 | mech50       | Mechanical Laboratory Experience in Fluid and Thermal Sciences                  |
+|   70 | mech51       | Remote Triggered Vibration Lab (not listed in Phase II sheet)                   |
+|   71 | mech52       | Computer Integrated Manufacturing System Laboratory                             |
+|   72 | mech53       | Remote Triggered Virtual Laboratory on Automotive Systems                       |
+|   73 | mech54       | Kinematics and Dynamics of Mechanisms                                           |
+|   74 | mech55       | Robotics and Control Systems Simulation Laboratory                              |
+|   75 | mech56       | Rotating Machinery Fault Simulation Laboratory                                  |
+|   76 | mech57       | Mechanical Systems and Signal Processing Lab                                    |
+|   77 | mech58       | Model Based Fault Detection Lab                                                 |
+|   78 | mech59       | Virtual Lab on Multiphase Flow                                                  |
+|   79 | mining01     | Virtual Labs on Mine Ventilation                                                |
+|   80 | mmengg01     | Thermal Processing and Microstructural Characterization                         |
+|   81 | mmengg02     | Structural Characterization of Materials Laboratory                             |
+|   82 | physc10      | Heat and Thermodynamics Virtual Lab                                             |
+|   83 | physc13      | Electricity and Magnetism Virtual Lab                                           |
+|   84 | physc21      | Solid State Physics Virtual Lab                                                 |
+|   85 | physc22      | Mechanics Virtual Lab (Pilot)                                                   |
+|   86 | physc23      | Advanced Mechanics Virtual Lab                                                  |
+|   87 | physc24      | Laser Optics Virtual Lab                                                        |
+|   88 | physc27      | Modern Physics Virtual Lab                                                      |
+|   89 | physc28      | Harmonic Motion and Waves Virtual Lab                                           |
+|   90 | physc30      | Optical Device Characterizations                                                |
+|   91 | physc31      | Low Temperature Electrical Transport and Property Measurements                  |
+|   92 | physc32      | Virtual Electric Circuits Lab (Pilot) (not listed in the Phase II sheet)        |
+|   93 | physc32      | Optics Virtual Lab (no ID given in phase II sheet)                              |
+|   94 | physc33      | Virtual Astrophysics Lab                                                        |
+|   95 | physc34      | Virtual Microwave Lab                                                           |
+|   96 | physc35      | Physical Sciences                                                               |
+|   97 | physc36      | Wave and Phenomena (Oscillations)                                               |
+|------+--------------+---------------------------------------------------------------------------------|
 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

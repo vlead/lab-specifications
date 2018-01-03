@@ -123,8 +123,8 @@
 |   93 | eee01       | Virtual Electrical Machine                                                            |
 |   94 | eee02       | Electronic Instrumentation Lab                                                        |
 |   95 | eee03       | Speech Signal Processing Laboratory                                                   |
-|   96 | eee05*      | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                            |
-|   97 | eee05*      | Sensors Modeling and Simulation                                                       |
+|   96 | ece41       | Digital VLSI Design Virtual Lab                                                       |
+|   97 | eee05       | Sensors Modeling and Simulation                                                       |
 |   98 | eee06       | Virtual Power Lab                                                                     |
 |   99 | eee07       | Virtual Power Electronics and Electric Drives Lab                                     |
 |  100 | eee08       | Industrial Electric Drives                                                            |

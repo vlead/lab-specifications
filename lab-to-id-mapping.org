@@ -257,18 +257,18 @@
 |   38 | design02     | Ergonomics Lab for Assessing Physical Aspects of Design                         |
 |   39 | ece41        | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                      |
 |   40 | ece42        | Electromagnetic Theory                                                          |
-|   41 | ece42        | Modern Digital Design Lab                                                       |
-|   42 | ece43        | Microelectronics and VLSI Engineering Laboratory                                |
-|   43 | ece44        | Basic Electronics Virtual Lab                                                   |
-|   44 | ece51        | Mechanisms and Robotics Lab                                                     |
-|   45 | ece52        | Solid State Devices Laboratory                                                  |
-|   46 | ece53        | Technology CAD (TCAD) Laboratory                                                |
-|   47 | ece54        | Virtual Pulse, Switching and Analogue Circuits Lab                              |
-|   48 | ece55        | Fading Channels and Mobile Communication                                        |
-|   49 | ece56        | Digital Signal Processing Lab                                                   |
-|   50 | ece57        | Digital Electronic Circuits Laboratory                                          |
-|   51 | ece58        | Advanced Network Technologies Virtual Lab                                       |
-|   52 | ece58        | Real Time Embedded Systems Laboratory                                           |
+|   41 | ece43        | Modern Digital Design Lab                                                       |
+|   42 | ece44        | Microelectronics and VLSI Engineering Laboratory                                |
+|   43 | ece45        | Basic Electronics Virtual Lab                                                   |
+|   44 | ece46        | Mechanisms and Robotics Lab                                                     |
+|   45 | ece47        | Solid State Devices Laboratory                                                  |
+|   46 | ece48        | Technology CAD (TCAD) Laboratory                                                |
+|   47 | ece49        | Virtual Pulse, Switching and Analogue Circuits Lab                              |
+|   48 | ece50        | Fading Channels and Mobile Communication                                        |
+|   49 | ece51        | Digital Signal Processing Lab                                                   |
+|   50 | ece52        | Digital Electronic Circuits Laboratory                                          |
+|   51 | ece53        | Advanced Network Technologies Virtual Lab                                       |
+|   52 | ece54        | Real Time Embedded Systems Laboratory                                           |
 |   53 | ee05         | Sensors Modeling and Simulation                                                 |
 |   54 | ee06         | Virtual Power Lab                                                               |
 |   55 | ee07         | Virtual Power Electronics and Electric Drives Lab                               |

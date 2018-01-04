@@ -298,22 +298,22 @@
 |   79 | mining01   | Virtual Labs on Mine Ventilation                                                            |
 |   80 | mmengg01   | Thermal Processing and Microstructural Characterization                                     |
 |   81 | mmengg02   | Structural Characterization of Materials Laboratory                                         |
-|   82 | physc10    | Heat and Thermodynamics Virtual Lab                                                         |
-|   83 | physc13    | Electricity and Magnetism Virtual Lab                                                       |
-|   84 | physc21    | Solid State Physics Virtual Lab                                                             |
-|   85 | physc22    | Mechanics Virtual Lab (Pilot)                                                               |
-|   86 | physc23    | Advanced Mechanics Virtual Lab                                                              |
-|   87 | physc24    | Laser Optics Virtual Lab                                                                    |
-|   88 | physc27    | Modern Physics Virtual Lab                                                                  |
-|   89 | physc28    | Harmonic Motion and Waves Virtual Lab                                                       |
-|   90 | physc30    | Optical Device Characterizations                                                            |
-|   91 | physc31    | Low Temperature Electrical Transport and Property Measurements                              |
-|   92 | physc32    | Optics Virtual Lab (no ID given in phase II sheet)                                          |
-|   93 | physc32    | Virtual Electric Circuits Lab (Pilot) (not listed in the Phase II sheet)                    |
-|   94 | physc33    | Virtual Astrophysics Lab                                                                    |
-|   95 | physc34    | Virtual Microwave Lab                                                                       |
-|   96 | physc35    | Physical Sciences                                                                           |
-|   97 | physc36    | Wave and Phenomena (Oscillations)                                                           |
+|   82 | physc01    | Heat and Thermodynamics Virtual Lab                                                         |
+|   83 | physc02    | Electricity and Magnetism Virtual Lab                                                       |
+|   84 | physc03    | Solid State Physics Virtual Lab                                                             |
+|   85 | physc04    | Mechanics Virtual Lab (Pilot)                                                               |
+|   86 | physc05    | Advanced Mechanics Virtual Lab                                                              |
+|   87 | physc06    | Laser Optics Virtual Lab                                                                    |
+|   88 | physc07    | Modern Physics Virtual Lab                                                                  |
+|   89 | physc08    | Harmonic Motion and Waves Virtual Lab                                                       |
+|   90 | physc09    | Optical Device Characterizations                                                            |
+|   91 | physc10    | Low Temperature Electrical Transport and Property Measurements                              |
+|   92 | physc11    | Optics Virtual Lab (no ID given in phase II sheet)                                          |
+|   93 | physc12    | Virtual Electric Circuits Lab (Pilot) (not listed in the Phase II sheet)                    |
+|   94 | physc13    | Virtual Astrophysics Lab                                                                    |
+|   95 | physc14    | Virtual Microwave Lab                                                                       |
+|   96 | physc15    | Physical Sciences                                                                           |
+|   97 | physc16    | Wave and Phenomena (Oscillations)                                                           |
 |------+------------+---------------------------------------------------------------------------------------------|
 
 		

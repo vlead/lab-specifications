@@ -79,53 +79,53 @@
 |   66 | cse15       | Digital Logic Design                                                             |
 |   67 | cse19       | Image Processing                                                                 |
 |   68 | cse18       | Computer Graphics                                                                |
-|   69 | ccnsb07     | Molecular Interactions                                                           |
+|   69 | chemsc08    | Molecular Interactions                                                           |
 |   70 | cse29       | Cryptography                                                                     |
 |   71 | cse22       | Artificial Neural Networks                                                       |
 |   72 | cse14       | VLSI                                                                             |
-|   73 | eerc01      | Basic Engineering Mechanics and Strength of Materials                            |
-|   74 | eerc03      | Hydraulics and Fluid Mechanics                                                   |
+|   73 | civil21     | Basic Engineering Mechanics and Strength of Materials                            |
+|   74 | civil23     | Hydraulics and Fluid Mechanics                                                   |
 |   75 | cse24       | Natural Language Processing                                                      |
-|   76 | eerc04      | Basic Structural Analysis                                                        |
+|   76 | civil24     | Basic Structural Analysis                                                        |
 |   77 | cse02       | Computer Programming                                                             |
 |   78 | cse01       | Data Structures                                                                  |
 |   79 | cse11       | Computer Organization                                                            |
 |   80 | cse20       | Pattern Recognition                                                              |
-|   81 | ccnsb01     | Molecular Fluorescence Spectroscopy                                              |
-|   82 | ccnsb06     | Physical Chemistry                                                               |
-|   83 | ccnsb03     | Molecular Absorption Spectroscopy                                                |
+|   81 | chemsc02    | Molecular Fluorescence Spectroscopy                                              |
+|   82 | chemsc07    | Physical Chemistry                                                               |
+|   83 | chemsc04    | Molecular Absorption Spectroscopy                                                |
 |   84 | cse04       | Problem Solving                                                                  |
 |------+-------------+----------------------------------------------------------------------------------|
-|   85 | vls01       | Kinematics and Dynamics of Mechanisms                                            |
-|   86 | vls02       | Technology CAD (TCAD) Laboratory                                                 |
-|   87 | vls03       | Virtual Pulse, Switching and Analogue Circuits Lab                               |
-|   88 | vls04       | Robotics and Control Systems Simulation Laboratory                               |
-|   89 | vls05       | Fading Channels and Mobile Communication                                         |
-|   90 | vls06       | Digital Signal Processing Labboratory                                            |
-|   91 | vls07       | Digital Electronic Circuit Laboratory                                            |
-|   92 | vls21       | Virtual Laboratory on Gaming and Simulation                                      |
-|   93 | vls09       | Advanced Network Technologies Virtual Lab                                        |
-|   94 | vls10       | Software Engineering Lab                                                         |
-|   95 | vls11       | Soft Computing Tools in Engineering                                              |
-|   96 | vls12       | Computer Organisation and Architecture                                           |
-|   97 | vls13       | Real Time Embedded Systems Laboratory                                            |
-|   98 | vls14       | Chemical Process Dynamics Laboratory                                             |
-|   99 | vls15       | Rotating Machinery Fault Simulation Laboratory                                   |
-|  100 | vls16       | Mechanical Systems and Signal Processing Lab                                     |
-|  101 | vls17       | Model Based Fault Detection Lab                                                  |
-|  102 | vls18       | Analog Signals,Network and Measurement Laboratory                                |
-|  103 | vls19       | Virtual Lab on Multiphase Flow                                                   |
-|  104 | vls20       | Virtual Labs on Mine Ventilation                                                 |
+|   85 | mech54      | Kinematics and Dynamics of Mechanisms                                            |
+|   86 | ece47       | Technology CAD (TCAD) Laboratory                                                 |
+|   87 | ece48       | Virtual Pulse, Switching and Analogue Circuits Lab                               |
+|   88 | mech55      | Robotics and Control Systems Simulation Laboratory                               |
+|   89 | ece49       | Fading Channels and Mobile Communication                                         |
+|   90 | ece50       | Digital Signal Processing Laboratory                                             |
+|   91 | ece51       | Digital Electronic Circuit Laboratory                                            |
+|   92 | isengg01    | Virtual Laboratory on Gaming and Simulation                                      |
+|   93 | ece52       | Advanced Network Technologies Virtual Lab                                        |
+|   94 | cse32       | Software Engineering Lab                                                         |
+|   95 | civil28     | Soft Computing Tools in Engineering                                              |
+|   96 | cse33       | Computer Organisation and Architecture                                           |
+|   97 | ece53       | Real Time Embedded Systems Laboratory                                            |
+|   98 | chemengg07  | Chemical Process Dynamics Laboratory                                             |
+|   99 | mech56      | Rotating Machinery Fault Simulation Laboratory                                   |
+|  100 | mech57      | Mechanical Systems and Signal Processing Lab                                     |
+|  101 | mech58      | Model Based Fault Detection Lab                                                  |
+|  102 | ee04        | Analog Signals,Network and Measurement Laboratory                                |
+|  103 | mech59      | Virtual Lab on Multiphase Flow                                                   |
+|  104 | mining01    | Virtual Labs on Mine Ventilation                                                 |
 |------+-------------+----------------------------------------------------------------------------------|
 |  105 | biotech26   | Biomedical Instrumentation Lab                                                   |
-|  106 | eee23       | Medical Signal and Image Processing                                              |
-|  107 | eee24       | Electrical Machines Lab                                                          |
+|  106 | biotech32   | Medical Signal and Image Processing                                              |
+|  107 | ee02        | Electrical Machines Lab                                                          |
 |  108 | civil15     | Surveying Lab                                                                    |
 |------+-------------+----------------------------------------------------------------------------------|
-|  109 | chem05      | Unit Operation, Reaction Engg. & Process Control                                 |
+|  109 | chemengg05  | Unit Operation, Reaction Engg. & Process Control                                 |
 |  110 | civil07     | Strength of Materials                                                            |
 |  111 | ee30        | Substation Automation                                                            |
-|  112 | eee08       | Industrial Electric Drives                                                       |
+|  112 | ee08        | Industrial Electric Drives                                                       |
 |  113 | mech21      | Machine Dynamics and Mechanical Vibrations                                       |
 |  114 | mech05      | Mechanics of Machine                                                             |
 |------+-------------+----------------------------------------------------------------------------------|

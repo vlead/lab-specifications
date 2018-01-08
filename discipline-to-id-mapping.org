@@ -1,3 +1,23 @@
+#+TITLE: Association of an ID to a discipline
+#+AUTHOR: VLEAD
+#+DATE: [2018-01-08 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document maps a discipline id to a discipline name. 
+
+* Assignment
+
+     Rules for assigning a discipline ID to a discipline
+     1. DisciplineId = Acronym of the discipline name
+     2. The discipline ID doesn't contain any hyphens.
+     3. For a new discipline, the discipline ID is decided first before giving any new lab IDs or updating any other 
+        assets in the database.
+
+
 [
   {
     "id": "1",

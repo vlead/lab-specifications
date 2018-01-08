@@ -16,13 +16,13 @@
 |   11 | physc02     | Electricity & Magnetism Virtual Lab                                              |
 |   12 | biotech29   | Cell biology Virtual Lab II                                                      |
 |   13 | biotech14   | Microbiology Virtual Lab I                                                       |
-|   14 | biotech13   | Molecular Biology Virtual Lab II (no ID on Phase II sheet)                       |                         
+|   14 | biotech13   | Molecular Biology Virtual Lab II                                                 |                  
 |   15 | biotech13   | Microbiology Virtual Lab II                                                      |
-|   16 | chemsc01    | Advanced Analytical Chemistry Virtual Lab (no ID on Phase II sheet)              |                       
-|   17 | chemsc09    | Inorganic Chemistry Virtual Lab (no ID on Phase II sheet)                        |                         
-|   18 | chemsc10    | Organic Chemistry Virtual Lab (no ID on Phase II sheet)                          |                         
-|   19 | chemsc07    | Physical Chemistry Virtual Lab (no ID on Phase II sheet)                         |                         
-|   20 | physc11     | Optics Virtual Lab (no ID on Phase II sheet)                                     |                         
+|   16 | chemsc01    | Advanced Analytical Chemistry Virtual Lab                                        |                  
+|   17 | chemsc09    | Inorganic Chemistry Virtual Lab                                                  |
+|   18 | chemsc10    | Organic Chemistry Virtual Lab                                                    |              
+|   19 | chemsc07    | Physical Chemistry Virtual Lab                                                   |             
+|   20 | physc11     | Optics Virtual Lab                                                               |       
 |------+-------------+----------------------------------------------------------------------------------|
 |   21 | cse12       | FPGA and Embedded System Lab                                                     |
 |   22 | biotech28   | Biomedical and Signal Processing Laboratory                                      |
@@ -39,9 +39,8 @@
 |   32 | ee06        | Virtual Power Lab                                                                |
 |   33 | chemengg06  | Virtual Chemistry Lab                                                            |
 |   34 | physc14     | Virtual Microwave Lab                                                            |
-|   35 | ai-dei*     | Analytical Lab (no ID in Phase II sheet)                                         |                         
+|   35 | chemengg02  | Analytical and Virtual Instrumentation and Applications Lab                      |                  
 |   36 | ece26       | Virtual Advanced Lab for Interactive design and Test in Electronics              |
-|      |             | (no ID in Phase II sheet)                                                        |
 |------+-------------+----------------------------------------------------------------------------------|
 |   37 | civil09     | Traffic Engineering Laboratory                                                   |
 |   38 | chemengg01  | Magnetic Levitation Lab                                                          |
@@ -73,7 +72,7 @@
 |   61 | mech49      | Mechanical Vibration                                                             |
 |   62 | mech50      | Mechanical Laboratory Experience in Fluid and Thermal Sciences                   |
 |   63 | chemengg03  | Mass Transfer                                                                    |
-|   64 | ece41       | Digital VLSI Design Virtual Lab (duplicate ID - vlsi-iitg)                       |                           
+|   64 | ece41       | Digital VLSI Design Virtual Lab                                                  |                 
 |------+-------------+----------------------------------------------------------------------------------|
 |   65 | cse23       | Computational Linguistics                                                        |
 |   66 | cse15       | Digital Logic Design                                                             |

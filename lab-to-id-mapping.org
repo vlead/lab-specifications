@@ -164,8 +164,8 @@
 |  134 | ocv-au      | Organic Chemistry Virtual Lab (no ID in Phase II sheet)                               |
 |  135 | ov-au       | Optics Virtual Lab (no ID given in phase II sheet)                                    |
 |  136 | pcv-au      | Physical Chemistry Virtual Lab (no ID in Phase II sheet)                              |
-|  137 | phy-sc10    | Heat and Thermodynamics Virtual Lab                                                   |
-|  138 | phy-sc13    | Electricity and Magnetism Virtual Lab                                                 |
+|  137 | htv-au      | Heat and Thermodynamics Virtual Lab                                                   |
+|  138 | emv-au      | Electricity and Magnetism Virtual Lab                                                 |
 |  139 | phy-sc21    | Solid State Physics Virtual Lab                                                       |
 |  140 | phy-sc22    | Mechanics Virtual Lab (Pilot)                                                         |
 |  141 | phy-sc23    | Advanced Mechanics Virtual Lab                                                        |

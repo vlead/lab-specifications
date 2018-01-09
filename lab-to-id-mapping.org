@@ -54,8 +54,8 @@
 |   24 | biotech18   | Population Ecology Virtual Lab I                                                      |
 |   25 | biotech19   | Neuron Simulation Lab (pilot)                                                         |
 |   26 | biotech20   | Neurophysiology (pilot)                                                               |
-|   27 | biotech22   | Cell biology Virtual Lab I                                                            |
-|   28 | biotech22*  | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                   |
+|   27 | cbi-au      | Cell biology Virtual Lab I                                                            |
+|   28 | cbii-au     | Cell biology Virtual Lab II (duplicate IDs given in Phase II sheet)                   |
 |   29 | biotech25   | Virtual Proteomics Laboratory                                                         |
 |   30 | biotech26   | Biomedical Instrumentation Lab                                                        |
 |   31 | ccnsb01     | Molecular Fluorescence Spectroscopy                                                   |

@@ -1,0 +1,46 @@
+#+TITLE: Association of an ID to an Institute
+#+AUTHOR: VLEAD
+#+DATE: [2018-01-08 Mon]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document maps an institute id to an Institute name. 
+
+* Assignment
+  Rules for assigning a institute ID to a institute
+  1. Institute Id is the Acronym of the institute name
+  2. The Institute ID doesn't contain any hyphens
+  3. For a new institute, the institute Id is decided
+     first before giving any new lab IDs or updating any
+     other assets in the database.
+
+|----+------------------------------------+--------------|
+| id | institute_name                     | institute_id |
+|----+------------------------------------+--------------|
+|  1 | Amrita University                  | amrita       |
+|----+------------------------------------+--------------|
+|  2 | College of Engineering, Pune       | coep         |
+|----+------------------------------------+--------------|
+|  3 | Dayalbagh Educational Institutions | dei          |
+|----+------------------------------------+--------------|
+|  4 | IIT Bombay                         | iitb         |
+|----+------------------------------------+--------------|
+|  5 | IIT Delhi                          | iitd         |
+|----+------------------------------------+--------------|
+|  6 | IIT Guwahati                       | iitg         |
+|----+------------------------------------+--------------|
+|  7 | IIIT Hyderabad                     | iiith        |
+|----+------------------------------------+--------------|
+|  8 | IIT Kanpur                         | iitk         |
+|----+------------------------------------+--------------|
+|  9 | IIT Kharagpur                      | iitkgp       |
+|----+------------------------------------+--------------|
+| 11 | IIT Roorkee                        | iitr         |
+|----+------------------------------------+--------------|
+| 12 | NIT Surathkal                      | nitk         |
+|----+------------------------------------+--------------|
+
+

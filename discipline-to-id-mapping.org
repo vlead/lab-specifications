@@ -10,98 +10,50 @@
   This document maps a discipline id to a discipline name. 
 
 * Assignment
+  Rules for assigning a discipline ID to a discipline
+  1. DisciplineId = Acronym of the discipline name
+  2. The discipline ID doesn't contain any hyphens
+  3. For a new discipline, the discipline ID is decided
+     first before giving any new lab IDs or updating any
+     other assets in the database.
 
-     Rules for assigning a discipline ID to a discipline
-     1. DisciplineId = Acronym of the discipline name
-     2. The discipline ID doesn't contain any hyphens.
-     3. For a new discipline, the discipline ID is decided first before giving any new lab IDs or updating any other 
-        assets in the database.
+|----+------------------------------------------+---------------|
+| id | discipline_name                          | discipline_id |
+|----+------------------------------------------+---------------|
+|  1 | Aerospace Engineering                    | aero          |
+|----+------------------------------------------+---------------|
+|  2 | Biotechnology and Biomedical Engineering | biotech       |
+|----+------------------------------------------+---------------|
+|  3 | Civil Engineering                        | civil         |
+|----+------------------------------------------+---------------|
+|  4 | Computer Science and Engineering         | cse           |
+|----+------------------------------------------+---------------|
+|  5 | Electrical Engineering                   | ee            |
+|----+------------------------------------------+---------------|
+|  6 | Electronics and Communication            | ece           |
+|----+------------------------------------------+---------------|
+|  7 | Humanities                               | hmt           |
+|----+------------------------------------------+---------------|
+|  8 | Mechanical Engineering                   | mech          |
+|----+------------------------------------------+---------------|
+|  9 | Physical Sciences                        | physc         |
+|----+------------------------------------------+---------------|
+| 10 | Textile Engineering                      | texengg       |
+|----+------------------------------------------+---------------|
+| 11 | Material Sciences                        | matsc         |
+|----+------------------------------------------+---------------|
+| 12 | Metallurgical and Materials Engineering  | mmengg        |
+|----+------------------------------------------+---------------|
+| 13 | Industrial and Systems Engineering       | isengg        |
+|----+------------------------------------------+---------------|
+| 14 | Chemical Engineering                     | chemengg      |
+|----+------------------------------------------+---------------|
+| 15 | Chemical Sciences                        | chemsc        |
+|----+------------------------------------------+---------------|
+| 16 | Design Engineering                       | design        |
+|----+------------------------------------------+---------------|
+| 17 | Mining Engineering                       | mining        |
+|----+------------------------------------------+---------------|
 
 
-[
-  {
-    "id": "1",
-    "discipline_name": "Aerospace Engineering",
-    "discipline_id": "aero"
-  },
-  {
-    "id": "2",
-    "discipline_name": "Biotechnology and Biomedical Engineering",
-    "discipline_id": "biotech"
-  },
-  {
-    "id": "3",
-    "discipline_name": "Civil Engineering",
-    "discipline_id": "civil"
-  },
-  {
-    "id": "4",
-    "discipline_name": "Computer Science and Engineering",
-    "discipline_id": "cse"
-  },
-  {
-    "id": "5",
-    "discipline_name": "Electrical Engineering",
-    "discipline_id": "ee"
-  },
-  {
-    "id": "6",
-    "discipline_name": "Electronics and Communication",
-    "discipline_id": "ece"
-  },
-  {
-    "id": "7",
-    "discipline_name": "Humanities",
-    "discipline_id": "hmt"
-  },
-  {
-    "id": "8",
-    "discipline_name": "Mechanical Engineering",
-    "discipline_id": "mech"
-  },
-  {
-    "id": "9",
-    "discipline_name": "Physical Sciences",
-    "discipline_id": "physc"
-  },
-  {
-    "id": "10",
-    "discipline_name": "Textile Engineering",
-    "discipline_id": "texengg"
-  },
-  {
-    "id": "11",
-    "discipline_name": "Material Sciences",
-    "discipline_id": "matsc"
-  },
-  {
-    "id": "12",
-    "discipline_name": "Metallurgical and Materials Engineering",
-    "discipline_id": "mmengg"
-  },
-  {
-    "id": "13",
-    "discipline_name": "Industrial and Systems Engineering",
-    "discipline_id": "isengg"
-  },
-  {
-    "id": "14",
-    "discipline_name": "Chemical Engineering",
-    "discipline_id": "chemengg"
-  },
-  {
-    "id": "15",
-    "discipline_name": "Chemical Sciences",
-    "discipline_id": "chemsc"
-  },
-  {
-    "id": "16",
-    "discipline_name": "Design Engineering",
-    "discipline_id": "design"
-  },
-  {
-    "id": "17",
-    "discipline_name": "Mining Engineering",
-    "discipline_id": "mining"
-  }
-]
+

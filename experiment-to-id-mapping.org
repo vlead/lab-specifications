@@ -1669,6 +1669,10 @@
   {"id" : "e98297", "name": "Bacterial Population Growth"},
   {"id" : "e98296", "name": "Population Invasion - A Threat to Ecosystem"},
   {"id" : "e98295", "name": "Study of Foraging of Organisms in the Ecosystem"},
-  {"id" : "e98294", "name": "Case Studies on Ecology"}
+  {"id" : "e98294", "name": "Case Studies on Ecology"},
+  {"id" : "e98293", "name": "Doppler Shift in Signal Frequency"},
+  {"id" : "e98292", "name": "Heat Transfer"},
+  {"id" : "e98291", "name": "Reference Frames and Transformations"},
+  {"id" : "e98290", "name": "Proportional Controller"}
  ]
 }

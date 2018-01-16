@@ -118,7 +118,7 @@
 |   88 | ece40       | Electronic Devices and Circuits                                                       |
 |   89 | ee26        | Virtual High Voltage Laboratory                                                       |
 |   90 | ee30        | Substation Automation                                                                 |
-|   91 | ee32-iitb   | Single Board Heater System Simulation Virtual Lab                                     |
+|   91 | ee32        | Single Board Heater System Simulation Virtual Lab                                     |
 |   92 | ee34        | Virtual Interactive Lab                                                               |
 |   93 | eee01       | Virtual Electrical Machine                                                            |
 |   94 | eil-iitg    | Electronic Instrumentation Lab                                                        |

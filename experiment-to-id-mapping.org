@@ -1670,9 +1670,16 @@
   {"id" : "e98296", "name": "Population Invasion - A Threat to Ecosystem"},
   {"id" : "e98295", "name": "Study of Foraging of Organisms in the Ecosystem"},
   {"id" : "e98294", "name": "Case Studies on Ecology"},
-  {"id" : "e98293", "name": "Doppler Shift in Signal Frequency"},
-  {"id" : "e98292", "name": "Heat Transfer"},
-  {"id" : "e98291", "name": "Reference Frames and Transformations"},
-  {"id" : "e98290", "name": "Proportional Controller"}
+  {"id" : "e98293", "name": "Proportional Controller"},
+  {"id" : "e98292", "name": "Reference Frames and Transformations"},
+  {"id" : "e98291", "name": "Heat Transfer"},
+  {"id" : "e98290", "name": "Doppler Shift in Signal Frequency"},
+  {"id" : "e98289", "name": "Viewing images in different bands"}
+  {"id" : "e98288", "name": "Contrast Enhancement"}
+  {"id" : "e98287", "name": "Smoothing"}
+  {"id" : "e98286", "name": "Edge Detection"}
+  {"id" : "e98285", "name": "Frequency Domain Filtering (Fourier Transform)"}
+
+
  ]
 }

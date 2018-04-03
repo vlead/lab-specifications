@@ -1,0 +1,19 @@
+{
+              "experiment": {
+                "id": "e98276",
+                "name": "Slump test",
+                "overview": "This experiment deals with Slump test",
+                "sections": [
+                "Theory", 
+ 							 "Procedure", 
+ 							 "Self Evaluation", 
+ 							 "Simulator", 
+ 							 "Assignment", 
+ 							 "Quiz", 
+ 							 "Videos", 
+ 							 "References", 
+ 							 "Feedback" 
+                ]
+              },
+              "content-type": "org"
+            }

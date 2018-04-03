@@ -1,0 +1,27 @@
+{ 
+              "lab": { 
+                "id": "civil29",
+                "name": "marine-structures-lab",
+                "overview": "This lab deals with marine-structures-lab",
+                "sections": [
+                  {
+                    "name": "Introduction"
+                  },
+                  {
+                    "experiments": [
+                      "e98284", 
+ 							 "e98283", 
+ 							 "e98282", 
+ 							 "e98281", 
+ 							 "e98280", 
+ 							 "e98279", 
+ 							 "e99278", 
+ 							 "e98277",
+                                                         "e98276",
+                                                         "e98275", 
+                    ]
+                  }
+                ]
+              },
+              "content-type": "org"
+            }

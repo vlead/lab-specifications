@@ -1668,6 +1668,25 @@
 | 1645 | e98287 | Smoothing                                                                                                                                                                            |
 | 1646 | e98286 | Edge Detection                                                                                                                                                                       |
 | 1647 | e98285 | Frequency Domain Filtering (Fourier Transform)                                                                                                                                       |
+| 1648 | e98284 | Specific Gravity of Cement 
+|
+| 1649 | e98283 | Specific Gravity of Fine Aggregate 
+|
+| 1650 | e98282 | Specific Gravity of Coarse Aggregate
+|
+| 1651 | e98281 | Fineness Modulus of Fine Aggregate 
+|
+| 1652 | e98280 | Fineness Modulus of Coarse Aggregate
+|
+| 1653 | e98279 | Fineness Modulus of Cement
+|
+| 1654 | e98278 | Standard Consistency of Cement
+|
+| 1655 | e98277 | Initial Setting time of Cement
+|
+| 1656 | e98276 | Slump test
+|
+| 1657 | e98275 | Concrete Mix Design
 |------+--------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 

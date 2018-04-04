@@ -1,21 +1,30 @@
-{"experiment": {"id":  "e98284",
-                    "name": "Specific Gravity of Cement",
-                    "discipline_id": "civil",
-                     "institute_id": "nitk",
-                    "developers": [],
-                    "hosting_info": [{"hosting_status": "hosted", "hosted_on": "institute", "hosted_url": "http://civ02.vlabs.ac.in/exp1/index.html"}],
-                    "integration_level": "1",
-                    "assets": [],
-                    "sections": [
-                                                         "Theory", 
- 							 "Procedure", 
- 							 "Self Evaluation", 
- 							 "Simulator", 
- 							 "Assignment", 
- 							 "Quiz", 
- 							 "Videos", 
- 							 "References", 
- 							 "Feedback" 
-                ]
-                  }
+{
+  "experiment": {
+    "id": "e98284",
+    "name": "Specific Gravity of Cement",
+    "overview": "The experiment deals with the Specific Gravity of Cement",
+    "discipline_id": "civil",
+    "institute_id": "nitk",
+    "developers": [],
+    "hosting_info": [
+      {
+        "hosting_status": "hosted",
+        "hosted_on": "institute",
+        "hosted_url": "http://civ02.vlabs.ac.in/exp1/index.html"
+      }
+    ],
+    "integration_level": 1,
+    "assets": [],
+    "sections": [
+      "Theory",
+      "Procedure",
+      "Self Evaluation",
+      "Simulator",
+      "Assignment",
+      "Quiz",
+      "Videos",
+      "References",
+      "Feedback"
+    ]
+  }
 }
